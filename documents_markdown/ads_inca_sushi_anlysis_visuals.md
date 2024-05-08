@@ -187,13 +187,13 @@ plt.show()
 
 
     
-![png](output_12_0.png)
+![png](/output_files/output_12_0.png)
     
 
 
 
     
-![png](output_12_1.png)
+![png](/output_files/output_12_1.png)
     
 
 
@@ -219,7 +219,7 @@ plt.show()
 
 
     
-![png](output_15_0.png)
+![png](/output_files/output_15_0.png)
     
 
 
@@ -296,7 +296,7 @@ plt.show()
 
 
     
-![png](output_19_0.png)
+![png](/output_files/output_19_0.png)
     
 
 
@@ -359,13 +359,13 @@ print("ANOVA test results - F-statistic: {:.2f}, p-value: {:.4f}".format(f_stat,
 
 
     
-![png](output_24_0.png)
+![png](/output_files/output_24_0.png)
     
 
 
 
     
-![png](output_24_1.png)
+![png](/output_files/output_24_1.png)
     
 
 
