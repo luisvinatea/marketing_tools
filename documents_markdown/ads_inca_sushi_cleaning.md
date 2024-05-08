@@ -75,7 +75,7 @@ df_sorted = df_sorted[df_sorted['Valor usado (BRL)'] >= 0.19]
 df_clean = df_sorted
 ```
 
-## DATA ANALYSIS
+## DATA PROCESSING
 
 In this step we will add further conditions to our data, in order to find underlying trends:
 
@@ -239,7 +239,7 @@ def label_special_periods(date):
 df_clean['Seasonality (year)'] = df_clean['Day'].apply(label_special_periods)
 ```
 
-## DATA VISUALIZATION
+## DATA ANALYSIS
 
 ### Now we make our last filter to retrieve the DataFrame of our interest:
 
@@ -250,9 +250,5 @@ df_ready = df_clean[
     (df_clean['Seasonality(yearly)'].isin(['Summer', 'Autumn', 'Winter', 'Spring']))
 ]
 ```
+Continues...
 
-### The Final Outcome
-
-```python
-print(df_ready)
-```
