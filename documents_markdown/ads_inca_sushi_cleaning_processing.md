@@ -31,9 +31,6 @@ df['Término dos relatórios'] = pd.to_datetime(df['Término dos relatórios'])
 # Chronological Sorting and Index Reset
 df_sorted = df.sort_values(by='Início dos relatórios')
 df_sorted.reset_index(drop=True, inplace=True)
-
-# Taking the first look
-print(df.head())
 ```
 
 ## DATA CLEANING
@@ -54,7 +51,6 @@ df_sorted = df_sorted.drop('Término dos relatórios', axis=1)
 
 # Check for missing values
 missing_values = df_sorted.isnull().sum()
-print("Missing values in each column:\n", missing_values)
 
 # I have no interest in analysing missclicks from now on, so we are filtering out the 65+ group
 df_sorted = df_sorted[~df_sorted['Idade'].isin(['65+', 'Unknown'])]
@@ -66,7 +62,6 @@ df_sorted = df_sorted.drop('Engajamento com a Página', axis=1)
 
 ```python
 summary_stats = df_sorted.describe()
-print("Summary statistics:\n", summary_stats)
 
 # Removing the ads that didnt really got to spend money
 df_sorted = df_sorted[df_sorted['Valor usado (BRL)'] >= 0.19]
