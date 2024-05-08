@@ -3,7 +3,7 @@
 
 ## INTRODUCTION
 
-This project aims to analyze the advertising data for "Inca Sushi" from 2021 to 2023, removing brazilian seasonality trends, using Python libraries like Pandas, NumPy and Holidays.
+This project aims to analyze the advertising data for "Inca Sushi" from 2021 to 2023, removing brazilian seasonality trends that have a direct impact on customer income.
 
 
 ## DATA PREPARATION
