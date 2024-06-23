@@ -1,13 +1,6 @@
-# A quick tool to find who is not following you back on instagram
+# A quick tool to find who is not following you back on instagram. Could be useful for digital marketing campaign managers, or to ensure requirements for a giveaway are being followed, without risking to use third party acess to the app, which could have your account restricted or banned. Just request the csv file from Accounts Center containing the data from your user account and replace it inside the read_csv function. Have fun!
 
-Could be useful for digital marketing campaign managers, or to ensure requirements for a giveaway are being followed, without risking to use third party acess to the app, which could have your account restricted or banned.
-
-Just request the csv file from Accounts Center containing the data from your user account and replace it inside the read_csv function.
-
-Have fun!
-
-
-````
+# Set up the environment
 pip install openpyxl
 import pandas as pd
 
@@ -47,6 +40,6 @@ unfollowers_df
 unfollowers_df.to_excel('unfollowers_list.xlsx', index=False)
 
 print("The list of unfollowers has been exported to 'unfollowers_list.xlsx'.")
-````
+
 
     
