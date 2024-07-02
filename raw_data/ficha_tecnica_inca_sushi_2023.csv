@@ -35,8 +35,6 @@ Cha Siu,Char Siu,45,94.86,4.27
 Cha Siu,Cachaça,30,12.23,0.37
 Cha Siu,Shoyu,30,36.67,1.10
 Cha Siu,Óleo de Gergelim,15,68.31,1.02
-Cha Siu,Canela Chinesa,5,,,
-Cha Siu,Pimenta Branca,2.5,,,
 
 Su,Vinagre,5000,2.10,10.50
 Su,Açúcar,3750,3.70,13.88
@@ -114,12 +112,10 @@ Kani Empanado,Kani,30,36.00,1.08
 Kani Empanado,Farinha,10,4.58,0.05
 Kani Empanado,Panko Alpha,5,17.01,0.09
 
-Mistura Hot,Salmão,1000,,,
 Mistura Hot,Cream Cheese,500,33.92,16.96
 Mistura Hot,Cebolinha,60,2.59,0.16
 Mistura Hot,Gergelim,40,35.90,1.44
 
-Mistura Grelhado,Salmão,1000,,,
 Mistura Grelhado,Cream Cheese,500,33.92,16.96
 
 Acevichado Maki,Camarão Sete Barbas,30,56.00,1.68
@@ -140,12 +136,10 @@ Jalea Roll,Molho Acevichado,30,9.42,0.28
 Jalea Roll,Togarashi,1,376.83,0.38
 Jalea Roll,Cebolinha,1,2.59,0.00
 
-Wings Meia,Frango Passarinho,400,,,
 Wings Meia,Embalagem Poke,1,1210.00,1.21
 Wings Meia,Potinho Shoyu,1000,0.21,0.21
 Wings Meia,Molho Acevichado,30,9.42,0.28
 
-Wings Inteira,Frango Passarinho,800,,,
 Wings Inteira,Embalagem Poke,1,1210.00,1.21
 Wings Inteira,Potinho Shoyu,1000,0.21,0.21
 Wings Inteira,Molho Acevichado,30,9.42,0.28
