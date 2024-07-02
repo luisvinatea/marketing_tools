@@ -2,7 +2,6 @@ Data de criação,Pedido pronto,Total de itens,Método de pagamento,Status,Total
 13/09/2023 23:19:40,13/09/2023 23:19:40,1,iFood,Concluído,R$ 92.98,R. Rua_1,144,Bairro_1,Apto 305 bloco B,Florianópolis,SC,88036050
 13/09/2023 23:19:40,13/09/2023 23:19:42,2,iFood,Concluído,R$ 50.13,R. Rua_2,231,Bairro_2,"Apto 301, Bloco D",Florianópolis,SC,88034040
 13/09/2023 23:19:40,13/09/2023 23:19:42,1,iFood,Concluído,R$ 107.77,Av. Avenida_1,680,Bairro_2,Apt 403 B,Florianópolis,SC,88034500
-13/09/2023 23:19:41,,2,iFood,Cancelado,R$ 49.98,Rua Rua_3,155,Bairro_2,"Apto 908, bloco a",Florianópolis,SC,88034600
 13/09/2023 23:19:41,13/09/2023 23:19:42,1,iFood,Concluído,R$ 39.99,R. Rua_4,178,Bairro_1,Bloco A Apto 204,Florianópolis,SC,88036080
 13/09/2023 23:19:42,13/09/2023 23:19:43,3,iFood,Concluído,R$ 86.17,R. Rua_5,488,Bairro_3,Apartamento 202,Florianópolis,SC,88040600
 13/09/2023 23:19:42,13/09/2023 23:19:43,2,iFood,Concluído,R$ 80.47,Rod. Rodovia_1,1797,Bairro_2,Apto 302 Blc A,Florianópolis,SC,88034000
@@ -31,8 +30,6 @@ Data de criação,Pedido pronto,Total de itens,Método de pagamento,Status,Total
 14/09/2023 20:53:57,14/09/2023 21:33:24,4,iFood,Concluído,R$ 61.73,R. Rua_17,0,Bairro_1,229,Florianópolis,SC,88036300
 14/09/2023 21:03:06,14/09/2023 21:33:37,1,iFood,Concluído,R$ 30.14,R. Rua_18,125,Bairro_9,Ap 108,Florianópolis,SC,88037010
 14/09/2023 21:04:38,14/09/2023 21:33:43,1,iFood,Concluído,R$ 32.63,R. Rua_19,128,Bairro_4,Casa,Florianópolis,SC,88040220
-14/09/2023 21:06:40,14/09/2023 21:45:55,3,iFood,Concluído,R$ 164.95,R. Rua_20,97,Centro,703,Florianópolis,SC,88020540
-Data de criação,Pedido pronto,Total de itens,Método de pagamento,Status,Total do pedido,Rua,Número,Bairro,Complemento,Cidade,Estado,CEP
 14/09/2023 21:07:11,15/09/2023 19:27:53,4,iFood,Concluído,R$ 138.90,Av. Me. Benvenuta,322,Trindade,apto 727 bloco B,Florianopolis,SC,0
 14/09/2023 21:12:16,14/09/2023 22:08:54,1,iFood,Concluído,R$ 30.14,Servidão Laje de Pedra,171,Itacorubi,Casa 12,Florianopolis,SC,0
 14/09/2023 21:13:48,14/09/2023 21:58:08,2,iFood,Concluído,R$ 70.73,Rua Sebastião L. da Silva,170,Córrego Grande,apto 405,Florianópolis,SC,88037400
