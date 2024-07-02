@@ -96,18 +96,18 @@ Carne de Siri,R$80.00,1000,R$80.00
 Wasabi,R$49.90,1200,R$41.58
 Kani,R$36.00,1000,R$36.00
 Shoyu Barquinho,R$0.60,30,R$20.00
-Shoyu Kikkoman,R$69.90,5000,R$13.98
+Shoyu Kikkoman,R$69.90,2000,R$69.90
 Gari,R$20.00,1000,R$20.00
-Shitake Hidratado,R$121.90,2500,R$48.76
-Embalagem Temaki,R$239.00,200000,R$1.20
-Embalagem Combinado,R$146.90,200000,R$0.73
-Embalagem Meia,R$112.90,200000,R$0.56
+Shitake Hidratado,R$121.90,1000,R$48.76
+Embalagem Temaki,R$1.20,1,R$1.20
+Embalagem Combinado,R$0.73,1,R$0.73
+Embalagem Meia,R$0.56,1,R$0.56
 Embalagem Poke,R$1.21,1,R$1210.00
 Pote Sunomomo,R$0.40,1,R$400.00
 Salmão Raspado,R$45.00,1000,R$45.00
 Abacaxi em Conserva,R$25.00,1000,R$25.00
-Molho de Ostra,R$30.00,500,R$60.00
-Caixa P,R$1.84,1,R$1840.00
+Molho de Ostra,R$30.00,1,R$30.00
+Caixa P,R$1.84,1,R$1.84
 Atum Spicy,R$42.58,1000,R$42.58
 Cha Siu,R$53.02,1000,R$53.02
 Molho Acevichado,R$9.42,1000,R$9.42
@@ -119,9 +119,8 @@ Su,R$2.18,1000,R$2.18
 Shari,R$3.88,1000,R$3.88
 Chimichurri,R$7.48,1000,R$7.48
 Molho Passion,R$63.70,1000,R$63.70
-Inca Maki,R$665.88,1000,R$665.88
-Salmão Spicy,R$13.10,1000,R$13.10
-Salmão Empanado,R$3.16,1000,R$3.16
+Inca Maki,R$6.65,1,R$6.65
+Salmão Spicy,R$13.10,1,R$13.10
 Batayaki,R$145.35,1000,R$145.35
 Ají,R$7.17,1000,R$7.17
 Molho Imperial,R$46.10,1000,R$46.10
@@ -130,52 +129,52 @@ Sunomomo,R$8.39,1000,R$8.39
 Kani Empanado,R$20.18,1000,R$20.18
 Mistura Hot,R$11.59,1000,R$11.59
 Mistura Grelhado,R$11.31,1000,R$11.31
-Acevichado Maki,R$468.65,1000,R$468.65
-Jalea Roll,R$352.66,1000,R$352.66
-Wings Meia,R$1705.35,1000,R$1705.35
-Wings Inteira,R$1705.35,1000,R$1705.35
-Yakimeshi,R$13.05,1000,R$13.05
-Hosomaki Salmão,R$3.40,10,R$340.00
-Seiji,R$3.56,10,R$356.00
-Inca Express,R$2.96,10,R$296.00
-Fuji,R$3.71,10,R$371.00
-Chimi Express,R$3.03,10,R$303.00
-Monkey Express,R$3.15,10,R$315.00
-Dragon Express,R$3.23,10,R$323.00
-Furai Express,R$3.35,10,R$335.00
-Imperial Express,R$5.00,10,R$500.00
-Inca,R$4.00,10,R$400.00
-Batayaki Express,R$5.10,10,R$510.00
-Monkey,R$4.00,10,R$400.00
-Dragon,R$4.00,10,R$400.00
-Furai,R$4.00,10,R$400.00
-Chimi,R$4.00,10,R$400.00
-Passion Express,R$5.85,10,R$585.00
-Batayaki,R$5.00,10,R$500.00
-Passion,R$5.00,10,R$500.00
-Imperial,R$5.00,10,R$500.00
-Temaki Seiji,R$2.61,1,R$2610.00
-Temaki Acevichado,R$4.15,1,R$4150.00
-Temaki Fuji,R$4.22,1,R$4220.00
-Temaki Salmão,R$4.45,1,R$4450.00
-Temahot Furai,R$6.00,1,R$6000.00
-Temaki Jimmy,R$6.44,1,R$6440.00
-Temaki Kani,R$2.44,1,R$2440.00
-Temaki Ika,R$2.68,1,R$2680.00
+Acevichado Maki,R$4.68,1,R$4.68
+Jalea Roll,R$3.52,1,R$3.52
+Wings Meia,R$17.05,6,R$17.05
+Wings Inteira,R$35,12,R$35
+Yakimeshi,R$13.05,1,R$13.05
+Hosomaki Salmão,R$3.40,1,R$3.40
+Seiji,R$3.56,1,R$3.56
+Inca Express,R$2.96,1,R$2.96
+Fuji,R$3.71,1,R$3.71
+Chimi Express,R$3.03,1,R$3.03
+Monkey Express,R$3.15,1,R$3.15
+Dragon Express,R$3.23,1,R$3.23
+Furai Express,R$3.35,1,R$3.35
+Imperial Express,R$5.00,1,R$5.00
+Inca,R$4.00,1,R$4.00
+Batayaki Express,R$5.10,1,R$5.10
+Monkey,R$4.00,1,R$4.00
+Dragon,R$4.00,1,R$4.00
+Furai,R$4.00,1,R$4.00
+Chimi,R$4.00,1,R$4.00
+Passion Express,R$5.85,1,R$5.85
+Batayaki,R$5.00,1,R$5.00
+Passion,R$5.00,1,R$5.00
+Imperial,R$5.00,1,R$5.00
+Temaki Seiji,R$2.61,1,R$2.61
+Temaki Acevichado,R$4.15,1,R$4.15
+Temaki Fuji,R$4.22,1,R$4.22
+Temaki Salmão,R$4.45,1,R$4.45
+Temahot Furai,R$6.00,1,R$6.00
+Temaki Jimmy,R$6.44,1,R$6.44
+Temaki Kani,R$2.44,1,R$2.44
+Temaki Ika,R$2.68,1,R$2.68
 Sassami,R$15.00,1000,R$15.00
 Salmão Filé,R$90.00,1000,R$90.00
-MONKEY VEG,R$1.30,10000,R$0.13
-DRAGON VEG,R$1.44,10000,R$0.14
-FUJI VEG,R$1.85,10000,R$0.19
-SEIJI VEG,R$1.91,10000,R$0.19
-JALEA VEG,R$1.95,10000,R$0.20
-TEQUEÑO VEG,R$2.28,10000,R$0.23
-MARACUMANGO VEG,R$2.39,10000,R$0.24
-COMBINADO VEG,R$2.48,10000,R$0.25
-TEFO VEG,R$3.01,10000,R$0.30
-ACHIFADO VEG,R$3.13,10000,R$0.31
-ANTICUCHERO VEG,R$3.36,10000,R$0.34
-MAJESTUOSO VEG,R$3.69,10000,R$0.37
-PASSION VEG,R$4.68,10000,R$0.47
-Salmão Empanado,R$62.01,1000,R$62.01
-Camarão Empanado,R$85.08,1000,R$85.0
+MONKEY VEG,R$1.30,1,R$1.30
+DRAGON VEG,R$1.44,1,R$1.40
+FUJI VEG,R$1.85,1,R$1.90
+SEIJI VEG,R$1.91,1,R$1.90
+JALEA VEG,R$1.95,1,R$1.95
+TEQUEÑO VEG,R$2.28,1,R$2.28
+MARACUMANGO VEG,R$2.39,1,R$2.39
+COMBINADO VEG,R$2.48,1,R$2.48
+TEFO VEG,R$3.01,1,R$3.01
+ACHIFADO VEG,R$3.13,1,R$3.13
+ANTICUCHERO VEG,R$3.36,1,R$3.36
+MAJESTUOSO VEG,R$3.69,1,R$3.69
+PASSION VEG,R$4.68,1,R$4.68
+Salmão Empanado,R$6.10,1,R$6.10
+Camarão Empanado,R$8.08,1,R$8.08
