@@ -1,1308 +1,136 @@
-Número do pedido,Id do pedido,Cliente,Telefone,Data de criação,Início do preparo,Pedido pronto,Pedido fechado,Produtos,Total de itens,Método de pagamento,Status,Tipo,Canal,Taxa de entrega,Taxa de serviço,Taxa adicional,Acréscimo da maquineta,Desconto,Total do pedido,Troco para,Rua,Número,Bairro,Complemento,Cidade,Estado,CEP
-1,25153111,Artur Antunes Machado,,13/09/2023 23:19:40,13/09/2023 23:19:40,13/09/2023 23:19:40,13/09/2023 23:19:49,"1.0 x  
-      1.0 x 10 Inca Maki 
-    1.0 x 10 Monkey Roll 
-    1.0 x 10 Dragon Roll 
-    2.0 x 10 Smoky Furai 
-    1.0 x Satisfeito, obrigado! 
-    1.0 x Shoyu Barquinho (30ml) 
-",1,iFood,Concluído,Delivery,iFood,R$ 0.00,R$ 0.00,R$ 0.00,R$ 0.00,R$ 10.00,R$ 92.98,R$ 0.00,R. Trajano Margarida,144,Trindade,Apto 305 bloco B,Florianópolis,SC,88036050
-2,25153113,Breno Ottani,,13/09/2023 23:19:40,13/09/2023 23:19:40,13/09/2023 23:19:42,13/09/2023 23:41:18,"1.0 x  
-      1.0 x 10 Seiji Roll 
-    1.0 x 10 Smoky Furai 
-    1.0 x Satisfeito, obrigado! 
-    1.0 x Hashi 
-1.0 x  
-      1.0 x Satisfeito, obrigado! 
-    1.0 x Tenho em casa, obrigado! 
-",2,iFood,Concluído,Delivery,iFood,R$ 0.00,R$ 0.00,R$ 0.00,R$ 0.00,R$ 10.00,R$ 50.13,R$ 0.00,R. Acelon Pachêco da Costa,231,Itacorubi,"Apto 301, Bloco D",Florianópolis,SC,88034040
-3,25153114,Zé Danilo,,13/09/2023 23:19:40,13/09/2023 23:19:41,13/09/2023 23:19:42,13/09/2023 23:43:22,"1.0 x  
-      1.0 x 10 Inca Maki 
-    1.0 x 10 Chimi Roll 
-    1.0 x 10 Tefo Maki 
-    1.0 x 10 Seiji Roll 
-    1.0 x 10 Achifado Hot 
-    1.0 x Satisfeito, obrigado! 
-    2.0 x Hashi 
-",1,iFood,Concluído,Delivery,iFood,R$ 0.00,R$ 0.00,R$ 0.00,R$ 0.00,R$ 10.00,R$ 107.77,R$ 0.00,Av. Buriti,680,Itacorubi,Apt 403 B,Florianópolis,SC,88034500
-4,25153115,Monica Medeiros Gaspar de Sousa,,13/09/2023 23:19:41,13/09/2023 23:19:41,,13/09/2023 23:19:41,"1.0 x  
-      1.0 x Satisfeito, obrigado! 
-    1.0 x Tenho em casa, obrigado! 
-1.0 x  
-      1.0 x 10 Monkey Roll 
-    1.0 x 10 Dragon Roll 
-    1.0 x 10 Chimi Roll 
-    1.0 x Satisfeito, obrigado! 
-    1.0 x Tenho em casa, obrigado! 
-",2,iFood,Cancelado,Delivery,iFood,R$ 0.00,R$ 0.00,R$ 0.00,R$ 0.00,R$ 10.00,R$ 49.98,R$ 0.00,Rua Salvatina Feliciana dos Santos,155,Itacorubi,"Apto 908, bloco a",Florianópolis,SC,88034600
-5,25153116,DAGOBERTO JUNIOR,,13/09/2023 23:19:41,13/09/2023 23:19:41,13/09/2023 23:19:42,13/09/2023 23:54:03,"1.0 x  
-      1.0 x 5 Inca Maki 
-    1.0 x 5 Dragon Roll 
-    1.0 x 5 Seiji Roll 
-    1.0 x 5 Smoky Furai 
-    1.0 x Satisfeito, obrigado! 
-    1.0 x Tenho em casa, obrigado! 
-",1,iFood,Concluído,Delivery,iFood,R$ 0.00,R$ 0.00,R$ 0.00,R$ 0.00,R$ 10.00,R$ 39.99,R$ 0.00,R. Prof. Milton Roque Ramos Krieger,178,Trindade,Bloco A Apto 204,Florianópolis,SC,88036080
-6,25153117,Bruno Santos,,13/09/2023 23:19:42,13/09/2023 23:19:42,13/09/2023 23:19:43,14/09/2023 00:17:55,"1.0 x  
-      1.0 x Satisfeito, obrigado! 
-    4.0 x Shoyu Sachê 8ml 
-1.0 x  
-      1.0 x Satisfeito, obrigado! 
-    3.0 x Shoyu Sachê 8ml 
-1.0 x  
-      1.0 x Temaki Salmão 
-    1.0 x Temaki Jimmy 
-    1.0 x Tarê Sachê 8g 
-",3,iFood,Concluído,Delivery,iFood,R$ 0.00,R$ 0.00,R$ 0.00,R$ 0.00,R$ 5.00,R$ 86.17,R$ 0.00,R. Cap. Romualdo de Barros,488,Carvoeira,Apartamento 202,Florianópolis,SC,88040600
-7,25153118,VANIO BOLAN DARELLA,,13/09/2023 23:19:42,13/09/2023 23:19:42,13/09/2023 23:19:43,14/09/2023 00:25:53,"1.0 x  
-      1.0 x Temaki Salmão 
-    1.0 x Temaki Atum 
-    1.0 x Tenho em casa, obrigado! 
-1.0 x  
-      1.0 x 10 Dragon Roll 
-    1.0 x 10 Inca Maki 
-    1.0 x Satisfeito, obrigado! 
-    1.0 x Wasabi 
-",2,iFood,Concluído,Delivery,iFood,R$ 0.00,R$ 0.00,R$ 0.00,R$ 0.00,R$ 10.00,R$ 80.47,R$ 0.00,Rod. Admar Gonzaga,1797,Itacorubi,Apto 302 Blc A,Florianópolis,SC,88034000
-8,25153119,fernanda queiroz,,13/09/2023 23:19:42,13/09/2023 23:19:42,13/09/2023 23:19:44,14/09/2023 00:27:48,"1.0 x  
-      1.0 x 10 Dragon Roll 
-    1.0 x 10 Acevichado Maki 
-    1.0 x Satisfeito, obrigado! 
-    1.0 x Tenho em casa, obrigado! 
-",1,iFood,Concluído,Delivery,iFood,R$ 0.00,R$ 0.00,R$ 0.00,R$ 0.00,R$ 12.00,R$ 32.98,R$ 0.00,R. Caminho do Engenho,160,Itacorubi,Ap 402 bloco B,Florianópolis,SC,88034300
-9,25153120,Luisa S,,13/09/2023 23:19:43,13/09/2023 23:19:43,13/09/2023 23:19:44,14/09/2023 00:28:21,"1.0 x  
-      1.0 x 5 Inca Maki 
-    1.0 x 5 Dragon Roll 
-    1.0 x 5 Smoky Furai 
-    1.0 x 5 Furai Maki 
-    1.0 x Satisfeito, obrigado! 
-    1.0 x Tenho em casa, obrigado! 
-",1,iFood,Concluído,Delivery,iFood,R$ 0.00,R$ 0.00,R$ 0.00,R$ 0.00,R$ 13.12,R$ 39.36,R$ 0.00,Rod. Amaro Antônio Viêira,2371,Itacorubi,Apto 422 bloco Dakar,Florianópolis,SC,88034102
-10,25153121,Renata Sachet,,13/09/2023 23:19:43,13/09/2023 23:19:43,13/09/2023 23:19:44,14/09/2023 02:40:40,"1.0 x  
-      1.0 x 10 Hot Banana 
-    1.0 x Tenho em casa, obrigado! 
-",1,iFood,Concluído,Delivery,iFood,R$ 0.00,R$ 0.00,R$ 0.99,R$ 0.00,R$ 12.00,R$ 18.97,R$ 0.00,Servidão Corintians,134,Pantanal,,Florianópolis,SC,88040100
-11,25153122,IVANNA TOMASI,,13/09/2023 23:19:43,13/09/2023 23:19:43,13/09/2023 23:19:45,14/09/2023 02:40:40,"1.0 x  
-      1.0 x 10 Passion Roll 
-    1.0 x 10 Honey Roll 
-    1.0 x 10 Imperial Roll 
-    1.0 x 10 Smoky Furai 
-    1.0 x 10 Tequeño Roll 
-    1.0 x Satisfeito, obrigado! 
-    5.0 x Hashi 
-    4.0 x Shoyu Barquinho (30ml) 
-    1.0 x Wasabi 
-1.0 x  
-      1.0 x 10 Chimi Roll 
-    1.0 x 10 Acevichado Maki 
-    1.0 x Satisfeito, obrigado! 
-    1.0 x Hashi 
-",2,iFood,Concluído,Delivery,iFood,R$ 0.00,R$ 0.00,R$ 0.00,R$ 0.00,R$ 12.00,R$ 196.32,R$ 0.00,R. Pastor William Richard Schisler Filho,900,Itacorubi,Apto 621 Bloco B,Florianópolis,SC,88034100
-12,25153124,ZUILA WANGHON,,13/09/2023 23:19:44,13/09/2023 23:19:44,13/09/2023 23:19:45,14/09/2023 02:40:41,"1.0 x  
-      1.0 x 10 Monkey Roll 
-    1.0 x 10 Dragon Roll 
-    1.0 x 10 Chimi Roll 
-    1.0 x 10 Smoky Furai 
-    1.0 x 10 Tefo Hot 
-    1.0 x Satisfeito, obrigado! 
-    2.0 x Hashi 
-    1.0 x Wasabi 
-    1.0 x Shoyu Barquinho (30ml) 
-",1,iFood,Concluído,Delivery,iFood,R$ 0.00,R$ 0.00,R$ 0.00,R$ 0.00,R$ 10.00,R$ 93.77,R$ 0.00,R. Profa. Maria Flora Pausewang,277,Trindade,Apto 301,Florianópolis,SC,88036800
-13,25153125,Ricardo Pedroso da Silva,,13/09/2023 23:19:44,13/09/2023 23:19:44,13/09/2023 23:19:45,14/09/2023 02:40:41,"1.0 x  
-      1.0 x Satisfeito, obrigado! 
-    1.0 x Hashi 
-    1.0 x Shoyu Sachê 8ml 
-    2.0 x Tarê (8g) 
-1.0 x  
-      1.0 x Satisfeito, obrigado! 
-    1.0 x Tenho em casa, obrigado! 
-1.0 x  
-      1.0 x Satisfeito, obrigado! 
-    1.0 x Tenho em casa, obrigado! 
-",3,iFood,Concluído,Delivery,iFood,R$ 0.00,R$ 0.00,R$ 0.00,R$ 0.00,R$ 5.00,R$ 55.57,R$ 0.00,Servidão João José de Melo,100,Córrego Grande,,Florianópolis,SC,88037
-14,25153126,JEFERSON,,13/09/2023 23:19:44,13/09/2023 23:19:44,13/09/2023 23:19:45,14/09/2023 02:40:41,"1.0 x  
-      1.0 x 10 Smoky Furai 
-    1.0 x 10 Seiji Roll 
-    1.0 x Satisfeito, obrigado! 
-    1.0 x Tenho em casa, obrigado! 
-",1,iFood,Concluído,Delivery,iFood,R$ 0.00,R$ 0.00,R$ 0.00,R$ 0.00,R$ 12.00,R$ 27.99,R$ 0.00,R. Acelon Eduardo da Silva,98,Córrego Grande,,Florianópolis,SC,88037408
-15,25153127,Guilherme Alexandrino,,13/09/2023 23:19:45,13/09/2023 23:19:45,13/09/2023 23:19:47,13/09/2023 23:19:47,"1.0 x  
-      1.0 x Temaki Salmão 
-    1.0 x Temaki Atum 
-    1.0 x Temaki Acevichado 
-    1.0 x Temaki Spicy 
-    1.0 x Tenho em casa, obrigado! 
-",1,iFood,Concluído,Delivery,iFood,R$ 0.00,R$ 0.00,R$ 0.00,R$ 0.00,R$ 20.00,R$ 59.99,R$ 0.00,R. Prof. Bento Águido Viêira,135,Trindade,Ap 104 - Condominio Baviera,Florianópolis,SC,88036410
-16,25153128,Milena Eller,,13/09/2023 23:19:45,13/09/2023 23:19:45,13/09/2023 23:19:46,14/09/2023 02:40:41,"1.0 x  
-      1.0 x Satisfeito, obrigado! 
-    2.0 x Tarê (8g) 
-    2.0 x Shoyu Sachê 8ml 
-1.0 x  
-      1.0 x Satisfeito, obrigado! 
-    1.0 x Hashi 
-",2,iFood,Concluído,Delivery,iFood,R$ 0.00,R$ 0.00,R$ 0.00,R$ 0.00,R$ 12.00,R$ 28.73,R$ 0.00,R. Francisco José Ramos,127,Itacorubi,Casa Rosa,Florianópolis,SC,88034210
-17,25153130,Matheus Cunha,,13/09/2023 23:19:45,13/09/2023 23:19:46,13/09/2023 23:19:46,14/09/2023 02:40:41,"1.0 x  
-      1.0 x Temaki Acevichado 
-    1.0 x Temaki Jimmy 
-    6.0 x Shoyu Sachê 8ml 
-    1.0 x Wasabi 
-",1,iFood,Concluído,Delivery,iFood,R$ 0.00,R$ 0.00,R$ 0.00,R$ 0.00,R$ 10.00,R$ 41.38,R$ 0.00,Av. Me. Benvenuta,322,Trindade,Apto 721,Florianópolis,SC,88036500
-18,25153131,JUSSENAIRA RAMOS,,13/09/2023 23:19:46,13/09/2023 23:19:46,13/09/2023 23:19:49,14/09/2023 02:40:41,"1.0 x  
-      1.0 x 10 Monkey Roll 
-    1.0 x 10 Chimi Roll 
-    1.0 x Satisfeito, obrigado! 
-    1.0 x Tenho em casa, obrigado! 
-",1,iFood,Concluído,Delivery,iFood,R$ 0.00,R$ 0.00,R$ 0.00,R$ 0.00,R$ 5.00,R$ 34.99,R$ 0.00,R. Congonhas,183,Monte Verde,Fundos À Direita,Florianópolis,SC,0
-19,25153132,SILVIO FIDELIS,,13/09/2023 23:19:46,13/09/2023 23:19:46,13/09/2023 23:19:48,14/09/2023 02:40:41,"1.0 x  
-      1.0 x Temaki Salmão 
-    1.0 x Temaki Atum 
-    1.0 x Tenho em casa, obrigado! 
-",1,iFood,Concluído,Delivery,iFood,R$ 0.00,R$ 0.00,R$ 0.00,R$ 0.00,R$ 12.50,R$ 37.49,R$ 0.00,Av. Hercílio Luz,1425,Centro,Apto 502,Florianópolis,SC,88020001
-20,25153133,Erik V,,13/09/2023 23:19:46,13/09/2023 23:19:46,13/09/2023 23:19:48,13/09/2023 23:19:49,"1.0 x  
-      1.0 x 10 Seiji Roll 
-    1.0 x 10 Furai Maki 
-    1.0 x 10 Hot Banana 
-    1.0 x Hashi 
-    1.0 x Tarê (8g) 
-    1.0 x Wasabi 
-1.0 x  
-",2,iFood,Concluído,Delivery,iFood,R$ 0.00,R$ 0.00,R$ 0.00,R$ 0.00,R$ 15.19,R$ 45.56,R$ 0.00,R. Maria Eduarda,238,Pantanal,404,Florianópolis,SC,88040250
-21,25153134,Cintia Troysi,,13/09/2023 23:19:47,13/09/2023 23:19:47,13/09/2023 23:19:48,14/09/2023 02:40:41,"1.0 x  
-      1.0 x 10 Inca Maki 
-    1.0 x 10 Monkey Roll 
-    1.0 x 10 Dragon Roll 
-    2.0 x 10 Furai Maki 
-    1.0 x Satisfeito, obrigado! 
-    2.0 x Hashi 
-    3.0 x Shoyu Sachê 8ml 
-    2.0 x Tarê (8g) 
-",1,iFood,Concluído,Delivery,iFood,R$ 0.00,R$ 0.00,R$ 0.00,R$ 0.00,R$ 0.00,R$ 111.02,R$ 0.00,"Av. Hercílio Luz, 1349 - apt 204",0,Centro,Apto 204,Florianópolis,SC,88020025
-22,25153135,Thays Bastos,,13/09/2023 23:19:47,13/09/2023 23:19:47,13/09/2023 23:19:49,13/09/2023 23:19:49,"1.0 x  
-      1.0 x 10 Monkey Roll 
-    1.0 x 10 Dragon Roll 
-    1.0 x 10 Hot Banana 
-    1.0 x Tenho em casa, obrigado! 
-1.0 x  
-      1.0 x Satisfeito, obrigado! 
-    1.0 x Tenho em casa, obrigado! 
-",2,iFood,Concluído,Delivery,iFood,R$ 0.00,R$ 0.00,R$ 0.00,R$ 0.00,R$ 12.00,R$ 77.97,R$ 0.00,Av. Hercílio Luz,853,Centro,604,Florianópolis,SC,88020001
-23,25153136,Bruno  Pires,,13/09/2023 23:19:47,13/09/2023 23:19:47,13/09/2023 23:19:49,14/09/2023 02:40:41,"1.0 x  
-      1.0 x Satisfeito, obrigado! 
-    2.0 x Shoyu Barquinho (30ml) 
-",1,iFood,Concluído,Delivery,iFood,R$ 0.00,R$ 0.00,R$ 0.99,R$ 0.00,R$ 12.00,R$ 14.96,R$ 0.00,R. Lauro Linhares,2055,Trindade,Predio Max Flora,Florianópolis,SC,88036003
-24,25153137,MATEUS MÜLLER,,13/09/2023 23:19:47,13/09/2023 23:19:48,13/09/2023 23:19:48,14/09/2023 02:40:42,"1.0 x  
-      1.0 x Satisfeito, obrigado! 
-    1.0 x Tenho em casa, obrigado! 
-1.0 x  
-      1.0 x Satisfeito, obrigado! 
-    1.0 x Hashi 
-1.0 x  
-      1.0 x Satisfeito, obrigado! 
-    1.0 x Hashi 
-",3,iFood,Concluído,Delivery,iFood,R$ 0.00,R$ 0.00,R$ 0.00,R$ 0.00,R$ 15.07,R$ 45.20,R$ 0.00,R. Des. Vítor Lima,410,Trindade,Manhattan 1 Ap406 Bloco C3,Florianópolis,SC,88040400
-25,25153138,MÁRIO ELI,,13/09/2023 23:19:48,13/09/2023 23:19:48,13/09/2023 23:19:49,14/09/2023 02:40:41,"1.0 x  
-      1.0 x Satisfeito, obrigado! 
-    1.0 x Hashi 
-2.0 x  
-",3,iFood,Concluído,Delivery,iFood,R$ 0.00,R$ 0.00,R$ 0.99,R$ 0.00,R$ 7.53,R$ 23.58,R$ 0.00,Servidão Clodomiro Vicente da Silva,40,Saco dos Limões,Ap 106,Florianópolis,SC,88045543
-26,25153139,Bruno Germann,,13/09/2023 23:19:48,13/09/2023 23:19:48,13/09/2023 23:19:49,14/09/2023 02:40:42,"1.0 x  
-      2.0 x 10 Inca Maki 
-    1.0 x Satisfeito, obrigado! 
-    1.0 x Hashi 
-    1.0 x Wasabi 
-    1.0 x Shoyu Barquinho (30ml) 
-",1,iFood,Concluído,Delivery,iFood,R$ 0.00,R$ 0.00,R$ 0.00,R$ 0.00,R$ 10.00,R$ 33.62,R$ 0.00,R. Maria Eduarda,105,Pantanal,Casa,Florianópolis,SC,88040250
-27,25173511,Dahfine  Loss Manfredini,,14/09/2023 18:57:37,14/09/2023 18:57:47,14/09/2023 19:17:49,14/09/2023 19:47:15,"1.0 x  
-  Vou precisar de::
-    1.0 x Tenho em casa, obrigado! 
-  Escolha os Hot!:
-    1.0 x 10 Seiji Roll 
-    1.0 x 10 Jalea Roll 
-  Ainda com fome?:
-    1.0 x Satisfeito, obrigado! 
-1.0 x  
-  Vou precisar de::
-    1.0 x Gari 
-    1.0 x Wasabi 
-    10.0 x Shoyu Sachê 8ml 
-  Escolha os Uramaki!:
-    1.0 x 10 Monkey Roll 
-    1.0 x 10 Dragon Roll 
-    1.0 x 10 Chimi Roll 
-  Escolha os Hot!:
-    1.0 x 10 Furai Maki 
-    1.0 x 10 Smoky Furai 
-  Ainda com fome?:
-    1.0 x Satisfeito, obrigado! 
-",2,iFood,Concluído,Delivery,iFood,R$ 5.99,R$ 0.00,R$ 0.00,R$ 0.00,R$ 5.99,R$ 142.46,R$ 0.00,Rua Dorval Melchíades de Souza,755,Centro,Apto 102,Florianópolis,SC,88015070
-28,25181324,Deivis Rafael Heckler,,14/09/2023 20:04:55,14/09/2023 20:04:55,14/09/2023 20:22:52,14/09/2023 20:29:35,"1.0 x  
-  Vou precisar de::
-    1.0 x Tenho em casa, obrigado! 
-  Escolha os Uramaki!:
-    2.0 x 10 Dragon Roll 
-    1.0 x 10 Acevichado Maki 
-  Escolha os Hot!:
-    1.0 x 10 Jalea Roll 
-    1.0 x 10 Smoky Furai 
-  Ainda com fome?:
-    1.0 x Satisfeito, obrigado! 
-",1,iFood,Concluído,Delivery,iFood,R$ 1.99,R$ 0.00,R$ 0.00,R$ 0.00,R$ 21.99,R$ 84.98,R$ 0.00,R. Lauro Linhares,970,Trindade,Apto 504 Bloco A,Florianópolis,SC,88036002
-29,25186488,Dani A,,14/09/2023 20:46:49,14/09/2023 20:47:00,14/09/2023 21:33:22,14/09/2023 22:05:48,"1.0 x  
-  Ainda com fome?:
-    1.0 x Satisfeito, obrigado! 
-  Vou precisar de::
-    3.0 x Tarê (8g) 
-  Escolha os Uramaki!:
-    2.0 x 5 Inca Maki 
-  Escolha seus Hot!:
-    1.0 x 5 Furai Maki 
-    1.0 x 5 Seiji Roll 
-",1,iFood,Concluído,Delivery,iFood,R$ 5.99,R$ 0.00,R$ 0.00,R$ 0.00,R$ 18.60,R$ 37.83,R$ 0.00,R. Baraúna,230,Itacorubi,Casa,Florianópolis,SC,88034450
-30,25187366,Felipe Silveira,,14/09/2023 20:53:57,14/09/2023 20:54:03,14/09/2023 21:33:24,15/09/2023 19:27:51,"1.0 x  
-      1.0 x Satisfeito, obrigado! 
-    1.0 x Tenho em casa, obrigado! 
-1.0 x  
-  Ainda com fome?:
-    1.0 x Satisfeito, obrigado! 
-  Vou precisar de::
-    1.0 x Tenho em casa, obrigado! 
-1.0 x  
-  Ainda com fome?:
-    1.0 x Satisfeito, obrigado! 
-  Vou precisar de::
-    2.0 x Hashi 
-    2.0 x Gari 
-    1.0 x Wasabi 
-1.0 x  
-  Ainda com fome?:
-    1.0 x Satisfeito, obrigado! 
-  Vou precisar de::
-    1.0 x Tenho em casa, obrigado! 
-",4,iFood,Concluído,Delivery,iFood,R$ 1.99,R$ 0.00,R$ 0.00,R$ 0.00,R$ 21.99,R$ 61.73,R$ 0.00,R. Prof. Elpídio Barbosa,0,Trindade,229,Florianópolis,SC,88036300
-31,25188416,João Vittor Braz de Oliveira,,14/09/2023 21:03:06,14/09/2023 21:03:07,14/09/2023 21:33:37,14/09/2023 21:51:31,"1.0 x  
-  Temakis Nikkei:
-    2.0 x Temaki Salmão 
-  Vou precisar de::
-    1.0 x Shoyu Sachê 8ml 
-",1,iFood,Concluído,Delivery,iFood,R$ 3.99,R$ 0.00,R$ 0.00,R$ 0.00,R$ 23.99,R$ 30.14,R$ 0.00,R. Joe Collaço,125,Santa Monica,Ap 108,Florianópolis,SC,88037010
-32,25188587,Camila Fernandes Carvalho,,14/09/2023 21:04:38,14/09/2023 21:04:44,14/09/2023 21:33:43,14/09/2023 21:58:08,"1.0 x  
-  Ainda com fome?:
-    1.0 x Satisfeito, obrigado! 
-  Vou precisar de::
-    1.0 x Hashi 
-  Escolha os Uramaki!:
-    1.0 x 5 Monkey Roll 
-    1.0 x 5 Acevichado Maki 
-  Escolha seus Hot!:
-    1.0 x 5 Seiji Roll 
-    1.0 x 5 Smoky Furai 
-",1,iFood,Concluído,Delivery,iFood,R$ 5.99,R$ 0.00,R$ 0.00,R$ 0.00,R$ 25.99,R$ 32.63,R$ 0.00,R. Olimpio da Silva,128,Pantanal,Casa,Florianópolis,SC,88040220
-33,25188805,LEONARDO CORDEIRO,,14/09/2023 21:06:40,14/09/2023 21:06:48,14/09/2023 21:45:55,14/09/2023 21:56:37,"1.0 x  
-  Vou precisar de::
-    1.0 x Tenho em casa, obrigado! 
-  Ainda com fome?:
-    1.0 x 10 Hot Banana 
-1.0 x  
-  Temakis Nikkei:
-    1.0 x Temaki Salmão 
-    1.0 x Temaki Atum 
-  Vou precisar de::
-    1.0 x Tenho em casa, obrigado! 
-1.0 x  
-  Vou precisar de::
-    1.0 x Tenho em casa, obrigado! 
-  Escolha os Uramaki!:
-    1.0 x 10 Inca Maki 
-    1.0 x 10 Chimi Roll 
-    1.0 x 10 Acevichado Maki 
-  Escolha os Hot!:
-    1.0 x 10 Furai Maki 
-    1.0 x 10 Tefo Hot 
-  Ainda com fome?:
-    1.0 x Satisfeito, obrigado! 
-",3,iFood,Concluído,Delivery,iFood,R$ 5.99,R$ 0.00,R$ 0.00,R$ 0.00,R$ 25.99,R$ 164.95,R$ 0.00,R. Crispim Mira,97,Centro,703,Florianópolis,SC,88020540
-34,25188860,FILIPPI SILVA,,14/09/2023 21:07:11,14/09/2023 21:07:19,14/09/2023 22:16:15,15/09/2023 19:27:53,"1.0 x  
-  Vou precisar de::
-    1.0 x Tenho em casa, obrigado! 
-  Escolha os Uramaki!:
-    1.0 x 5 Monkey Roll 
-    1.0 x 5 Acevichado Maki 
-  Escolha seus Hot!:
-    2.0 x 5 Smoky Furai 
-  Ainda com fome?:
-    1.0 x Satisfeito, obrigado! 
-2.0 x  
-1.0 x  
-  Escolha os Uramaki!:
-    1.0 x 10 Inca Maki 
-    1.0 x 10 Dragon Roll 
-    1.0 x 10 Chimi Roll 
-  Escolha os Hot!:
-    1.0 x 10 Furai Maki 
-    1.0 x 10 Seiji Roll 
-  Ainda com fome?:
-    1.0 x Satisfeito, obrigado! 
-  Vou precisar de::
-    3.0 x Hashi 
-",4,iFood,Concluído,Delivery,iFood,R$ 1.99,R$ 0.00,R$ 0.00,R$ 0.00,R$ 21.99,R$ 138.90,R$ 0.00,Av. Me. Benvenuta,322,Trindade,apto 727 bloco B,Florianopolis,SC,0
-35,25189395,MANOELA DE LIMA RAMOS,,14/09/2023 21:12:16,14/09/2023 21:12:30,14/09/2023 21:50:30,14/09/2023 22:08:54,"1.0 x  
-  Temakis Nikkei:
-    1.0 x Temaki Jimmy 
-    1.0 x Temaki Salmão 
-  Vou precisar de::
-    1.0 x Tarê Sachê 8g 
-    2.0 x Tenho em casa, obrigado! 
-",1,iFood,Concluído,Delivery,iFood,R$ 5.99,R$ 0.00,R$ 0.00,R$ 0.00,R$ 25.99,R$ 30.14,R$ 0.00,Servidão Laje de Pedra,171,Itacorubi,Casa 12,Florianopolis,SC,0
-36,25189586,Matheus William Matoso,,14/09/2023 21:13:48,14/09/2023 21:13:54,14/09/2023 21:51:00,14/09/2023 21:58:08,"1.0 x  
-  Temakis Nikkei:
-    1.0 x Temaki Salmão 
-    1.0 x Temaki Atum 
-  Vou precisar de::
-    5.0 x Shoyu Sachê 8ml 
-1.0 x  
-      1.0 x Tenho em casa, obrigado! 
-    2.0 x 10 Inca Maki 
-    1.0 x Satisfeito, obrigado! 
-",2,iFood,Concluído,Delivery,iFood,R$ 5.99,R$ 0.00,R$ 0.00,R$ 0.00,R$ 25.99,R$ 70.73,R$ 0.00,Rua Sebastião L. da Silva,170,Córrego Grande,apto 405,Florianópolis,SC,88037400
-37,25189738,GABRIELA SOUZA,,14/09/2023 21:15:19,14/09/2023 21:15:34,14/09/2023 22:05:48,14/09/2023 22:20:36,"1.0 x  
-  Vou precisar de::
-    1.0 x Hashi 
-    2.0 x Shoyu Barquinho (30ml) 
-  Escolha os Uramaki!:
-    1.0 x 5 Majestuoso Roll 
-    1.0 x 5 Inca Maki 
-  Escolha seus Hot!:
-    1.0 x 5 Furai Maki 
-    1.0 x 5 Jalea Roll 
-  Ainda com fome?:
-    1.0 x Satisfeito, obrigado! 
-",1,iFood,Concluído,Delivery,iFood,R$ 1.99,R$ 0.00,R$ 0.00,R$ 0.00,R$ 21.99,R$ 39.87,R$ 0.00,Rodovia João Paulo,764,João Paulo,Apto 702 bloco B,Florianópolis,SC,88030300
-38,25190103,Luis Felipe Rosa,,14/09/2023 21:18:22,14/09/2023 21:18:31,14/09/2023 22:05:48,14/09/2023 22:14:00,"1.0 x  
-  Vou precisar de::
-    1.0 x Tenho em casa, obrigado! 
-  Escolha os Uramaki!:
-    1.0 x 5 Chimi Roll 
-    1.0 x 5 Majestuoso Roll 
-  Escolha seus Hot!:
-    1.0 x 5 Jalea Roll 
-    1.0 x 5 Smoky Furai 
-  Ainda com fome?:
-    1.0 x Satisfeito, obrigado! 
-",1,iFood,Concluído,Delivery,iFood,R$ 1.99,R$ 0.00,R$ 0.00,R$ 0.00,R$ 15.42,R$ 40.31,R$ 0.00,Rodovia João Paulo,435,João Paulo,Apto 202 B,Florianópolis,SC,88030300
-39,25190811,Stefany Berg,,14/09/2023 21:24:28,14/09/2023 21:24:36,14/09/2023 22:16:12,14/09/2023 22:44:32,"1.0 x  
-  Temakis Nikkei:
-    1.0 x Temaki Summer 
-    1.0 x Temaki Salmão 
-  Vou precisar de::
-    1.0 x Tenho em casa, obrigado! 
-    1.0 x Hashi Take 33 Cm 
-",1,iFood,Concluído,Delivery,iFood,R$ 3.99,R$ 0.00,R$ 0.00,R$ 0.00,R$ 23.99,R$ 30.14,R$ 0.00,R. Urcelino Manoel Coelho,77,Córrego Grande,Casa,Florianópolis,SC,88037050
-40,25190929,MARINA,,14/09/2023 21:25:30,14/09/2023 21:25:43,14/09/2023 22:16:09,14/09/2023 22:47:05,"1.0 x  
-  Temakis Nikkei:
-    1.0 x Temaki Salmão 
-    1.0 x Temaki Jimmy 
-  Vou precisar de::
-    1.0 x Hashi Take 33 Cm 
-    2.0 x Shoyu Sachê 8ml 
-",1,iFood,Concluído,Delivery,iFood,R$ 3.99,R$ 0.00,R$ 0.00,R$ 0.00,R$ 23.99,R$ 30.44,R$ 0.00,R. João Pio Duarte Silva,404,Córrego Grande,Bloco 3 apto 406,Florianópolis,SC,88037000
-41,25191376,Milena Michailoff Comarella ,,14/09/2023 21:29:34,14/09/2023 21:29:43,14/09/2023 21:55:04,14/09/2023 22:06:19,"1.0 x  
-      1.0 x Satisfeito, obrigado! 
-    1.0 x Tenho em casa, obrigado! 
-1.0 x  
-  Ainda com fome?:
-    1.0 x Satisfeito, obrigado! 
-  Vou precisar de::
-    1.0 x Tenho em casa, obrigado! 
-1.0 x  
-  Ainda com fome?:
-    1.0 x Satisfeito, obrigado! 
-  Vou precisar de::
-    1.0 x Hashi 
-1.0 x  
-  Vou precisar de::
-    1.0 x Tenho em casa, obrigado! 
-  Ainda com fome?:
-    1.0 x Satisfeito, obrigado! 
-",4,iFood,Concluído,Delivery,iFood,R$ 5.99,R$ 0.00,R$ 0.00,R$ 0.00,R$ 20.00,R$ 66.10,R$ 0.00,Rua General Valgas Neves,115,Estreito,Casa,Florianópolis,SC,88075070
-42,25191738,Ursula Di Leo,,14/09/2023 21:33:08,14/09/2023 21:33:16,14/09/2023 22:16:05,15/09/2023 19:27:55,"1.0 x  
-  Vou precisar de::
-    1.0 x Hashi 
-    4.0 x Shoyu Sachê 8ml 
-  Escolha os Uramaki!:
-    1.0 x 10 Inca Maki 
-    1.0 x 10 Dragon Roll 
-    1.0 x 10 Chimi Roll 
-  Escolha os Hot!:
-    1.0 x 10 Furai Maki 
-    1.0 x 10 Smoky Furai 
-  Ainda com fome?:
-    1.0 x Satisfeito, obrigado! 
-",1,"iFood, iFood",Concluído,Delivery,iFood,R$ 5.99,R$ 0.00,R$ 0.00,R$ 0.00,R$ 25.99,R$ 80.74,R$ 0.00,R. Rui Barbosa,116,Agronômica,Apt 202,Florianópolis,SC,88025300
-43,25191783,Ciro Fuerst,,14/09/2023 21:33:39,14/09/2023 21:33:45,14/09/2023 22:22:09,14/09/2023 22:30:22,"1.0 x  
-  Vou precisar de::
-    1.0 x Hashi 
-  Escolha os Uramaki!:
-    1.0 x 5 Inca Maki 
-    1.0 x 5 Chimi Roll 
-  Escolha seus Hot!:
-    2.0 x 5 Smoky Furai 
-  Ainda com fome?:
-    1.0 x Satisfeito, obrigado! 
-",1,iFood,Concluído,Delivery,iFood,R$ 5.99,R$ 0.00,R$ 0.00,R$ 0.00,R$ 25.99,R$ 30.14,R$ 0.00,Rod. Admar Gonzaga,2025,Itacorubi,Apto 108 / Bloco F2,Florianópolis,SC,88034000
-44,25192045,Thiago Pietruza,,14/09/2023 21:36:11,14/09/2023 21:36:11,14/09/2023 22:16:02,15/09/2023 19:27:58,"1.0 x  
-      1.0 x Satisfeito, obrigado! 
-    1.0 x Tenho em casa, obrigado! 
-1.0 x  
-  Ainda com fome?:
-    1.0 x Satisfeito, obrigado! 
-  Vou precisar de::
-    1.0 x Tenho em casa, obrigado! 
-",2,iFood,Concluído,Delivery,iFood,R$ 1.99,R$ 0.00,R$ 0.00,R$ 0.00,R$ 11.98,R$ 29.99,R$ 0.00,R. Ver. Hélio Abreu,15,Trindade,Casa,Florianopolis,SC,0
-45,25192764,Victor  Cecyn,,14/09/2023 21:42:50,14/09/2023 21:43:02,14/09/2023 22:33:54,14/09/2023 22:39:36,"1.0 x  
-      1.0 x 10 Monkey Roll 
-    1.0 x 10 Dragon Roll 
-    1.0 x Hashi 
-    3.0 x Shoyu Sachê 8ml 
-    3.0 x Tarê (8g) 
-    1.0 x Satisfeito, obrigado! 
-1.0 x  
-  Ainda com fome?:
-    1.0 x Satisfeito, obrigado! 
-  Vou precisar de::
-    1.0 x Tenho em casa, obrigado! 
-",2,iFood,Concluído,Delivery,iFood,R$ 3.99,R$ 0.00,R$ 0.00,R$ 0.00,R$ 19.25,R$ 45.77,R$ 0.00,Av. César Seara,36,Saco dos Limões,Apto 102 interfone 102,Florianópolis,SC,88040500
-46,25193322,FELIPE,,14/09/2023 21:48:27,14/09/2023 21:48:37,14/09/2023 22:34:24,14/09/2023 22:42:09,"1.0 x  
-  Temakis Nikkei:
-    2.0 x Temaki Salmão 
-  Vou precisar de::
-    1.0 x Hashi Take 33 Cm 
-    4.0 x Tarê Sachê 8g 
-    1.0 x Wasabi 
-",1,iFood,Concluído,Delivery,iFood,R$ 3.99,R$ 0.00,R$ 0.00,R$ 0.00,R$ 23.99,R$ 31.23,R$ 0.00,R. das Camélias,188,Saco dos Limões,Fundos,Florianópolis,SC,88040530
-47,25194081,ANALY GOMES,,14/09/2023 21:56:06,14/09/2023 21:56:17,14/09/2023 22:28:50,14/09/2023 22:35:28,"1.0 x  
-  Ainda com fome?:
-    1.0 x Satisfeito, obrigado! 
-  Vou precisar de::
-    12.0 x Tenho em casa, obrigado! 
-1.0 x  
-  Ainda com fome?:
-    1.0 x Satisfeito, obrigado! 
-  Vou precisar de::
-    12.0 x Tenho em casa, obrigado! 
-1.0 x  
-      1.0 x Satisfeito, obrigado! 
-    12.0 x Tenho em casa, obrigado! 
-1.0 x  
-  Ainda com fome?:
-    1.0 x Satisfeito, obrigado! 
-  Vou precisar de::
-    11.0 x Tenho em casa, obrigado! 
-    1.0 x Wasabi 
-",4,iFood,Concluído,Delivery,iFood,R$ 1.99,R$ 0.00,R$ 0.00,R$ 0.00,R$ 21.99,R$ 82.95,R$ 0.00,R. Luiz Oscar de Carvalho,207,Trindade,Bl 5 AP 303,Florianópolis,SC,88036400
-1,25219655,Luis Paulo Vinatea Barberena,48988552904,15/09/2023 18:26:06,,,15/09/2023 18:37:20,"1.0 x  
-  Ainda com fome?:
-    1.0 x 10 Hot Banana 
-  Escolha os Uramaki!:
-    1.0 x 10 Inca Maki 
-    1.0 x 10 Monkey Maki 
-  Vou precisar de::
-    1.0 x Tarê (8g) 
-",1,Pix automático,Cancelado,Retirada,Site,R$ 0.00,R$ 0.00,R$ 0.00,R$ 0.00,R$ 0.00,R$ 50.13,R$ 0.00,,,,,,,
-2,25221022,Willian Costa,,15/09/2023 18:42:15,15/09/2023 18:42:36,15/09/2023 19:02:55,15/09/2023 19:28:01,"1.0 x  
-      1.0 x 10 Chimi Roll 
-    1.0 x 10 Acevichado Maki 
-    1.0 x 10 Majestuoso Roll 
-    1.0 x 10 Seiji Roll 
-    1.0 x 10 Jalea Roll 
-  Ainda com fome?:
-    1.0 x Satisfeito, obrigado! 
-  Vou precisar de::
-    1.0 x Tenho em casa, obrigado! 
-",1,iFood,Concluído,Delivery,iFood,R$ 1.99,R$ 0.00,R$ 0.00,R$ 0.00,R$ 1.99,R$ 99.99,R$ 0.00,R. Lauro Linhares,657,Trindade,AP 206 B,Florianópolis,SC,0
-3,25221662,Micael Barbosa Nadas,,15/09/2023 18:48:54,15/09/2023 18:49:13,15/09/2023 19:03:57,15/09/2023 19:31:41,"1.0 x  
-      1.0 x 10 Inca Maki 
-    1.0 x 10 Acevichado Maki 
-    1.0 x 10 Majestuoso Roll 
-    1.0 x 10 Seiji Roll 
-    1.0 x 10 Jalea Roll 
-    1.0 x Wasabi 
-  Ainda com fome?:
-    1.0 x Satisfeito, obrigado! 
-",1,iFood,Concluído,Delivery,iFood,R$ 3.99,R$ 0.00,R$ 0.00,R$ 0.00,R$ 23.99,R$ 80.48,R$ 0.00,Rod. Admar Gonzaga,1663,Itacorubi,308 A,Florianópolis,SC,88034000
-4,25223445,Renan Francisco Izé May,,15/09/2023 19:04:11,15/09/2023 19:04:11,15/09/2023 19:15:51,15/09/2023 19:35:31,"1.0 x  
-      1.0 x 10 Inca Maki 
-    1.0 x 10 Monkey Roll 
-    1.0 x 10 Acevichado Maki 
-    1.0 x 10 Smoky Furai 
-    1.0 x 10 Tequeño Roll 
-    2.0 x Hashi 
-    2.0 x Gari 
-  Ainda com fome?:
-    1.0 x Satisfeito, obrigado! 
-",1,iFood,Concluído,Delivery,iFood,R$ 3.99,R$ 0.00,R$ 0.00,R$ 0.00,R$ 23.99,R$ 86.26,R$ 0.00,Av. Carlos Gonzaga,216,Jd Anchieta,Casa,Florianópolis,SC,88037700
-5,25225711,GABRIEL NEVES,,15/09/2023 19:19:52,15/09/2023 19:19:52,15/09/2023 19:31:27,15/09/2023 19:46:19,"1.0 x  
-  Ainda com fome?:
-    1.0 x Satisfeito, obrigado! 
-  Vou precisar de::
-    1.0 x Tenho em casa, obrigado! 
-1.0 x  
-      1.0 x 10 Monkey Roll 
-    1.0 x 10 Acevichado Maki 
-    1.0 x 10 Smoky Furai 
-    1.0 x 10 Furai Maki 
-    2.0 x Hashi 
-    6.0 x Shoyu Sachê 8ml 
-    2.0 x Tarê (8g) 
-    1.0 x 10 Inca Maki 
-  Ainda com fome?:
-    1.0 x Satisfeito, obrigado! 
-",2,iFood,Concluído,Delivery,iFood,R$ 5.99,R$ 0.00,R$ 0.00,R$ 0.00,R$ 25.99,R$ 126.47,R$ 0.00,Servidão Catarina Sodré,93,Itacorubi,Casa,Florianópolis,SC,88034375
-6,25227811,TAUSER XIMENES FARIAS,,15/09/2023 19:33:09,15/09/2023 19:33:21,15/09/2023 19:46:11,15/09/2023 20:19:30,"1.0 x  
-      1.0 x 10 Monkey Roll 
-    1.0 x 10 Acevichado Maki 
-    1.0 x 10 Majestuoso Roll 
-    1.0 x 10 Jalea Roll 
-    1.0 x 10 Seiji Roll 
-    2.0 x Hashi 
-  Ainda com fome?:
-    1.0 x Satisfeito, obrigado! 
-",1,iFood,Concluído,Delivery,iFood,R$ 5.99,R$ 0.00,R$ 0.00,R$ 0.00,R$ 5.99,R$ 100.29,R$ 0.00,Rod. Amaro Antônio Viêira,2155,Itacorubi,"Bloco C, Apartamento 306",Florianópolis,SC,88034102
-7,25228554,Henrique Alende da Silveira,,15/09/2023 19:37:41,15/09/2023 19:37:53,15/09/2023 19:46:15,15/09/2023 20:19:32,"1.0 x  
-      1.0 x 10 Inca Maki 
-    1.0 x 10 Dragon Roll 
-    1.0 x 10 Acevichado Maki 
-    1.0 x 10 Batayaki Hot 
-    1.0 x 10 Jalea Roll 
-    2.0 x Hashi 
-  Ainda com fome?:
-    1.0 x Satisfeito, obrigado! 
-",1,iFood,Concluído,Delivery,iFood,R$ 3.99,R$ 0.00,R$ 0.00,R$ 0.00,R$ 13.99,R$ 90.29,R$ 0.00,Servidão Amaral Antero Bastos,29,Itacorubi,Apartamento 801,Florianopolis,SC,0
-8,25231569,Guilherme Dutra Guedes,,15/09/2023 19:53:57,15/09/2023 19:53:57,15/09/2023 20:19:47,15/09/2023 20:40:02,"2.0 x  
-  Vou precisar de::
-    1.0 x Tenho em casa, obrigado! 
-  Ainda com fome?:
-    1.0 x Satisfeito, obrigado! 
-1.0 x  
-      1.0 x 10 Acevichado Maki 
-    1.0 x 10 Majestuoso Roll 
-    1.0 x 10 Inca Maki 
-    1.0 x 10 Seiji Roll 
-    1.0 x 10 Jalea Roll 
-  Vou precisar de::
-    1.0 x Tenho em casa, obrigado! 
-  Ainda com fome?:
-    1.0 x Satisfeito, obrigado! 
-1.0 x  
-  Ainda com fome?:
-    1.0 x Satisfeito, obrigado! 
-  Vou precisar de::
-    1.0 x Tenho em casa, obrigado! 
-1.0 x  
-",5,iFood,Concluído,Delivery,iFood,R$ 1.99,R$ 0.00,R$ 0.00,R$ 0.00,R$ 1.99,R$ 187.95,R$ 0.00,R. Prof. Odilon Fernandes,77,Trindade,Apto 303,Florianópolis,SC,0
-9,25231945,Raquel Bitencourt,,15/09/2023 19:55:59,15/09/2023 19:56:10,15/09/2023 20:19:51,15/09/2023 20:40:06,"1.0 x  
-  Vou precisar de::
-    1.0 x Tenho em casa, obrigado! 
-    1.0 x Shoyu Sachê 8ml 
-  Ainda com fome?:
-    1.0 x Satisfeito, obrigado! 
-1.0 x  
-      1.0 x 10 Seiji Roll 
-    1.0 x 10 Furai Maki 
-    1.0 x 10 Hot Banana 
-  Vou precisar de::
-    1.0 x Tenho em casa, obrigado! 
-",2,iFood,Concluído,Delivery,iFood,R$ 5.99,R$ 0.00,R$ 0.00,R$ 0.00,R$ 15.99,R$ 60.12,R$ 0.00,R. Bocaiúva,2304,Centro,,Florianópolis,SC,88015530
-10,25232238,LÍGIA DE GODOY,,15/09/2023 19:57:38,15/09/2023 19:57:55,15/09/2023 20:39:47,15/09/2023 20:54:07,"1.0 x  
-      1.0 x 5 Batayaki Roll 
-    1.0 x 5 Passion Roll 
-    1.0 x 5 Furai Maki 
-    1.0 x 5 Achifado Hot 
-  Ainda com fome?:
-    1.0 x Satisfeito, obrigado! 
-  Vou precisar de::
-    1.0 x Tenho em casa, obrigado! 
-",1,iFood,Concluído,Delivery,iFood,R$ 3.99,R$ 0.00,R$ 0.00,R$ 0.00,R$ 3.99,R$ 72.48,R$ 0.00,Av. Buriti,750,Itacorubi,Torre 2 Apto 402,Florianópolis,SC,88034500
-11,25234378,BEATRIZ DE CAROLI VIZIOLI,,15/09/2023 20:09:13,15/09/2023 20:09:13,15/09/2023 20:39:54,15/09/2023 20:48:32,"1.0 x  
-1.0 x  
-      2.0 x Shoyu Sachê 8ml 
-    3.0 x Tarê (8g) 
-  Temakis Nikkei:
-    3.0 x Temaki Salmão 
-    1.0 x Temaki Atum 
-",2,iFood,Concluído,Delivery,iFood,R$ 1.99,R$ 0.00,R$ 0.00,R$ 0.00,R$ 21.99,R$ 68.73,R$ 0.00,R. Des. Vítor Lima,380,Trindade,Quarto 303,Florianópolis,SC,88040401
-12,25239631,Ruth Alves Da Cunha,,15/09/2023 20:37:11,15/09/2023 20:37:11,15/09/2023 20:50:14,15/09/2023 20:57:00,"1.0 x  
-      1.0 x 10 Seiji Roll 
-    1.0 x 10 Tefo Hot 
-    1.0 x Hashi 
-  Ainda com fome?:
-    1.0 x Satisfeito, obrigado! 
-",1,iFood,Concluído,Retirada,iFood,R$ 0.00,R$ 0.00,R$ 0.00,R$ 0.00,R$ 10.00,R$ 30.14,R$ 0.00,,,,,,,
-13,25243363,Kemelyn Corrêa,,15/09/2023 20:57:04,15/09/2023 20:57:14,15/09/2023 21:13:02,15/09/2023 21:28:40,"1.0 x  
-      1.0 x 10 Inca Maki 
-    1.0 x 10 Dragon Roll 
-    1.0 x Tarê (8g) 
-  Ainda com fome?:
-    1.0 x Satisfeito, obrigado! 
-",1,iFood,Concluído,Delivery,iFood,R$ 3.99,R$ 0.00,R$ 0.00,R$ 0.00,R$ 0.00,R$ 44.13,R$ 0.00,R. Tres Ac Rua Dois,31,Trindade,frente da igreja,Florianópolis,SC,88040425
-14,25243997,Aline C,,15/09/2023 21:00:38,15/09/2023 21:01:12,15/09/2023 21:20:04,15/09/2023 21:56:59,"1.0 x  
-      1.0 x 10 Monkey Roll 
-    1.0 x 10 Acevichado Maki 
-    1.0 x 10 Inca Maki 
-    1.0 x 10 Furai Maki 
-    1.0 x 10 Seiji Roll 
-    1.0 x 20 Hot Banana 
-    3.0 x Hashi 
-    4.0 x Shoyu Sachê 8ml 
-",1,iFood,Concluído,Delivery,iFood,R$ 5.99,R$ 0.00,R$ 0.00,R$ 0.00,R$ 25.99,R$ 101.03,R$ 0.00,R. Marli Maria da Silveira,43,Pantanal,Apto 204,Florianópolis,SC,88040060
-15,25245395,Luane Britto,,15/09/2023 21:08:19,15/09/2023 21:08:49,15/09/2023 21:38:17,15/09/2023 21:57:01,"1.0 x  
-      1.0 x 5 Dragon Roll 
-    1.0 x 5 Chimi Roll 
-    1.0 x 5 Batayaki Hot 
-    1.0 x 5 Smoky Furai 
-    1.0 x Hashi 
-  Ainda com fome?:
-    1.0 x Satisfeito, obrigado! 
-",1,iFood,Concluído,Delivery,iFood,R$ 1.99,R$ 0.00,R$ 0.00,R$ 0.00,R$ 6.99,R$ 47.63,R$ 0.00,R. Joe Collaço,870,Santa Monica,Casa,Florianópolis,SC,88035200
-16,25248175,bruna duarte,,15/09/2023 21:24:15,15/09/2023 21:24:15,15/09/2023 21:44:41,15/09/2023 21:57:02,"1.0 x  
-      1.0 x 10 Dragon Roll 
-    1.0 x 10 Inca Maki 
-    1.0 x 10 Acevichado Maki 
-    1.0 x 10 Furai Maki 
-    1.0 x 10 Jalea Roll 
-    1.0 x Hashi 
-    5.0 x Shoyu Sachê 8ml 
-    1.0 x Gari 
-    1.0 x Tarê Barquinho (30g) 
-  Ainda com fome?:
-    1.0 x Satisfeito, obrigado! 
-",1,iFood,Concluído,Delivery,iFood,R$ 7.99,R$ 0.00,R$ 0.00,R$ 0.00,R$ 10.00,R$ 102.36,R$ 0.00,R. São Miguel,50,João Paulo,Restaurante Bom Prático E Barato,Florianópolis,SC,88030320
-17,25250684,Alice Olinda Domingos ,48991852303,15/09/2023 21:39:08,15/09/2023 21:40:57,15/09/2023 21:59:04,15/09/2023 22:41:42,"1.0 x  
-  Vou precisar de::
-    1.0 x Wasabi 
-    2.0 x Hashi 
-  Escolha os Uramaki!:
-    1.0 x 10 Dragon Maki 
-    1.0 x 10 Acevichado Maki 
-    1.0 x 10 Chimi Maki 
-  Escolha os Hot!:
-    1.0 x 10 Tefo Hot 
-    1.0 x 10 Jalea Roll 
-  Ainda com fome?:
-    1.0 x Satisfeito, obrigado! 
-",1,Pix automático,Concluído,Delivery,Site,R$ 0.00,R$ 0.00,R$ 0.00,R$ 0.00,R$ 15.12,R$ 85.66,R$ 0.00,Rua Europa,370,Trindade,Apto 1131,Florianópolis,SC,88036135
-18,25251413,Leonardo Bittencourt Assino,,15/09/2023 21:43:43,15/09/2023 21:43:43,15/09/2023 21:59:15,15/09/2023 22:41:44,"1.0 x  
-  Vou precisar de::
-    1.0 x Tenho em casa, obrigado! 
-  Ainda com fome?:
-    1.0 x Satisfeito, obrigado! 
-1.0 x  
-      1.0 x 10 Inca Maki 
-    1.0 x 10 Tefo Maki 
-    1.0 x Hashi 
-    4.0 x Shoyu Sachê 8ml 
-    1.0 x Wasabi 
-  Ainda com fome?:
-    1.0 x Satisfeito, obrigado! 
-",2,iFood,Concluído,Delivery,iFood,R$ 3.99,R$ 0.00,R$ 0.00,R$ 0.00,R$ 3.99,R$ 66.21,R$ 0.00,R. Dep. Antônio Edu Vieira,902,Pantanal,Ap 203,Florianópolis,SC,88040001
-19,25252667,NEMORA NATTRODT MONTEIRO,,15/09/2023 21:51:19,15/09/2023 21:51:19,15/09/2023 22:16:44,15/09/2023 22:28:55,"1.0 x  
-      1.0 x 10 Dragon Roll 
-    1.0 x 10 Acevichado Maki 
-  Ainda com fome?:
-    1.0 x Satisfeito, obrigado! 
-  Vou precisar de::
-    1.0 x Tenho em casa, obrigado! 
-1.0 x  
-      1.0 x 10 Chimi Roll 
-    1.0 x 10 Majestuoso Roll 
-    1.0 x 10 Monkey Roll 
-    1.0 x 10 Furai Maki 
-    1.0 x 10 Smoky Furai 
-    1.0 x Wasabi 
-    2.0 x Shoyu Barquinho (30ml) 
-  Ainda com fome?:
-    1.0 x Satisfeito, obrigado! 
-",2,iFood,Concluído,Delivery,iFood,R$ 5.99,R$ 0.00,R$ 0.00,R$ 0.00,R$ 22.99,R$ 134.44,R$ 0.00,Servidão Manoel Félix da Silva,163,Itacorubi,Casa 01,Florianópolis,SC,88034355
-20,25254056,JORGE LUIZ BORBA,,15/09/2023 22:00:28,15/09/2023 22:00:28,15/09/2023 22:16:44,15/09/2023 22:37:02,"1.0 x  
-      1.0 x 5 Chimi Roll 
-    1.0 x 5 Acevichado Maki 
-    1.0 x 5 Furai Maki 
-    1.0 x 5 Jalea Roll 
-  Vou precisar de::
-    1.0 x Tenho em casa, obrigado! 
-  Ainda com fome?:
-    1.0 x Satisfeito, obrigado! 
-",1,iFood,Concluído,Delivery,iFood,R$ 5.99,R$ 0.00,R$ 0.00,R$ 0.00,R$ 15.99,R$ 39.99,R$ 0.00,Servidão Feliciano Martins Vieira,158,Itacorubi,Apartamento 203,Florianópolis,SC,88034130
-1,25294885,LARA PERETTI SCHÜLER,,16/09/2023 19:18:59,16/09/2023 19:19:02,16/09/2023 19:57:07,16/09/2023 20:43:06,"1.0 x  
-  Ainda com fome?:
-    1.0 x Satisfeito, obrigado! 
-  Vou precisar de::
-    1.0 x Hashi 
-  Escolha os Uramaki!:
-    1.0 x 10 Acevichado Maki 
-    1.0 x 10 Majestuoso Roll 
-",1,iFood,Concluído,Delivery,iFood,R$ 5.99,R$ 0.00,R$ 0.00,R$ 0.00,R$ 10.99,R$ 35.14,R$ 0.00,Av. Jorn. Rubéns de Arruda Ramos,3214,Centro,Apt 801,Florianópolis,SC,88015700
-2,25294989,Bruna Lorenzi,,16/09/2023 19:19:32,16/09/2023 19:19:34,16/09/2023 19:57:13,16/09/2023 20:43:15,"1.0 x  
-  Vou precisar de::
-    2.0 x Tarê (8g) 
-    1.0 x Gari 
-    2.0 x Shoyu Sachê 8ml 
-    1.0 x Tenho em casa, obrigado! 
-  Escolha os Hot!:
-    1.0 x 10 Furai Maki 
-    1.0 x 10 Smoky Furai 
-  Ainda com fome?:
-    1.0 x 20 Hot Banana 
-  Escolha os Uramaki!:
-    2.0 x 10 Batayaki Roll 
-    1.0 x 10 Truffle Roll 
-",1,iFood,Concluído,Delivery,iFood,R$ 5.99,R$ 0.00,R$ 0.00,R$ 0.00,R$ 10.99,R$ 171.06,R$ 0.00,Av. Mauro Ramos,1250,Centro,Ap 33 Bloco B1,Florianópolis,SC,88020302
-3,25295281,VANESSA,,16/09/2023 19:21:06,16/09/2023 19:21:22,16/09/2023 19:57:17,16/09/2023 20:43:09,"1.0 x  
-  Temakis Nikkei:
-    1.0 x Temaki Salmão 
-    1.0 x Temaki Majestuoso 
-  Vou precisar de::
-    1.0 x Tenho em casa, obrigado! 
-1.0 x  
-  Vou precisar de::
-    1.0 x Wasabi 
-  Escolha os Uramaki!:
-    1.0 x 10 Tefo Maki 
-    1.0 x 10 Acevichado Maki 
-  Ainda com fome?:
-    1.0 x Satisfeito, obrigado! 
-1.0 x  
-  Escolha os Uramaki!:
-    1.0 x 10 Dragon Roll 
-    1.0 x 10 Chimi Roll 
-    1.0 x 10 Majestuoso Roll 
-  Escolha os Hot!:
-    1.0 x 10 Smoky Furai 
-    1.0 x 10 Achifado Hot 
-  Ainda com fome?:
-    1.0 x Satisfeito, obrigado! 
-  Vou precisar de::
-    1.0 x Wasabi 
-",3,iFood,Concluído,Delivery,iFood,R$ 15.99,R$ 0.00,R$ 0.00,R$ 0.00,R$ 15.99,R$ 205.92,R$ 0.00,Rod. Virgílio Várzea,1572,Saco Grande,"Apto 706, bloco b",Florianópolis,SC,88032005
-4,25295987,Kelvin,15991966299,16/09/2023 19:24:39,16/09/2023 19:24:39,,16/09/2023 19:26:24,"1.0 x  
-  Vou precisar de::
-    1.0 x Tenho em casa, obrigado! 
-  Ainda com fome?:
-    1.0 x Satisfeito, obrigado! 
-1.0 x  
-  Vou precisar de::
-    1.0 x Shoyu Barquinho (30ml) 
-  Escolha os Uramaki!:
-    2.0 x 10 Chimi Maki 
-  Ainda com fome?:
-    1.0 x Satisfeito, obrigado! 
-",2,,Concluído,Retirada,Portal,R$ 0.00,R$ 0.00,R$ 0.00,R$ 0.00,R$ 82.97,R$ 0.00,R$ 0.00,,,,,,,
-5,25297648,ROBERTO,,16/09/2023 19:32:46,16/09/2023 19:32:54,16/09/2023 20:31:29,16/09/2023 20:43:14,"1.0 x  
-      2.0 x Hashi 
-    1.0 x Tarê (8g) 
-    1.0 x Wasabi 
-  Ainda com fome?:
-    1.0 x Satisfeito, obrigado! 
-  Escolha os Hot!:
-    1.0 x 10 Smoky Furai 
-    1.0 x 10 Achifado Hot 
-",1,iFood,Concluído,Delivery,iFood,R$ 3.99,R$ 0.00,R$ 0.00,R$ 0.00,R$ 16.72,R$ 38.18,R$ 0.00,Servidão Wenceslau Martinho Vieira,67,Córrego Grande,Apto 302A,Florianópolis,SC,88037416
-6,25299205,Isaias Casanova Junior,,16/09/2023 19:40:00,16/09/2023 19:40:02,16/09/2023 20:31:33,16/09/2023 20:43:11,"2.0 x  
-  Vou precisar de::
-    1.0 x Tarê (8g) 
-    3.0 x Hashi 
-    3.0 x Shoyu Sachê 8ml 
-  Escolha os Uramaki!:
-    1.0 x 10 Inca Maki 
-    1.0 x 10 Dragon Roll 
-    1.0 x 10 Majestuoso Roll 
-  Escolha os Hot!:
-    1.0 x 10 Tefo Hot 
-    1.0 x 10 Smoky Furai 
-  Ainda com fome?:
-    1.0 x Satisfeito, obrigado! 
-",2,iFood,Concluído,Delivery,iFood,R$ 5.99,R$ 0.00,R$ 0.00,R$ 0.00,R$ 5.99,R$ 212.06,R$ 0.00,R. do Calafate,209,Pantanal,Apto 201,Florianopolis,SC,0
-7,25300494,Bárbara Schvuchov,,16/09/2023 19:45:59,16/09/2023 19:46:01,16/09/2023 20:31:37,16/09/2023 20:43:12,"1.0 x  
-  Vou precisar de::
-    2.0 x Hashi 
-    2.0 x Tarê (8g) 
-  Escolha os Uramaki!:
-    1.0 x 10 Inca Maki 
-    1.0 x 10 Majestuoso Roll 
-    1.0 x 10 Monkey Roll 
-  Escolha os Hot!:
-    1.0 x 10 Furai Maki 
-    1.0 x 10 Batayaki Hot 
-  Ainda com fome?:
-    1.0 x 20 Hot Banana 
-",1,iFood,Concluído,Delivery,iFood,R$ 1.99,R$ 0.00,R$ 0.00,R$ 0.00,R$ 11.99,R$ 110.58,R$ 0.00,R. Luiz Oscar de Carvalho,75,Trindade,B2 33,Florianópolis,SC,88036400
-8,25300811,Jandui Barreiros,,16/09/2023 19:47:30,16/09/2023 19:47:33,16/09/2023 20:43:30,16/09/2023 22:32:40,"1.0 x  
-  Vou precisar de::
-    1.0 x Hashi 
-    4.0 x Shoyu Sachê 8ml 
-  Escolha os Uramaki!:
-    1.0 x 10 Dragon Roll 
-    1.0 x 10 Chimi Roll 
-  Ainda com fome?:
-    1.0 x Satisfeito, obrigado! 
-1.0 x  
-  Vou precisar de::
-    1.0 x Tenho em casa, obrigado! 
-  Escolha os Hot!:
-    2.0 x 10 Furai Maki 
-  Ainda com fome?:
-    1.0 x Satisfeito, obrigado! 
-",2,iFood,Concluído,Delivery,iFood,R$ 5.99,R$ 0.00,R$ 0.00,R$ 0.00,R$ 15.99,R$ 70.73,R$ 0.00,Servidão Recanto Verde,155,Itacorubi,837,Florianópolis,SC,88034389
-9,25302257,LUANA BARBOSA,,16/09/2023 19:54:07,16/09/2023 19:54:09,16/09/2023 20:43:38,16/09/2023 22:32:44,"1.0 x  
-  Escolha os Uramaki!:
-    1.0 x 10 Dragon Roll 
-    1.0 x 10 Acevichado Maki 
-    1.0 x 10 Chimi Roll 
-  Escolha os Hot!:
-    1.0 x 10 Furai Maki 
-    1.0 x 10 Batayaki Hot 
-  Ainda com fome?:
-    1.0 x Satisfeito, obrigado! 
-  Vou precisar de::
-    1.0 x Tenho em casa, obrigado! 
-",1,iFood,Concluído,Delivery,iFood,R$ 3.99,R$ 0.00,R$ 0.00,R$ 0.00,R$ 23.99,R$ 79.99,R$ 0.00,R. Pastor William Richard Schisler Filho,980,Itacorubi,701,Florianópolis,SC,88034100
-10,25302494,Júlia Bobik,,16/09/2023 19:55:08,16/09/2023 19:55:10,16/09/2023 20:43:42,16/09/2023 22:32:42,"1.0 x  
-  Escolha os Uramaki!:
-    1.0 x 5 Inca Maki 
-    1.0 x 5 Majestuoso Roll 
-  Escolha seus Hot!:
-    1.0 x 5 Furai Maki 
-    1.0 x 5 Batayaki Hot 
-  Ainda com fome?:
-    1.0 x 10 Hot Banana 
-  Vou precisar de::
-    1.0 x Hashi 
-    3.0 x Shoyu Sachê 8ml 
-",1,iFood,Concluído,Delivery,iFood,R$ 5.99,R$ 0.00,R$ 0.00,R$ 0.00,R$ 17.99,R$ 48.58,R$ 0.00,R. Fernando Machado,261,Centro,Apto 1108,Florianópolis,SC,88020130
-11,25302626,Balcão,,16/09/2023 19:55:43,16/09/2023 19:55:43,16/09/2023 20:52:30,16/09/2023 21:13:50,"1.0 x  
-  Vou precisar de::
-    1.0 x Tenho em casa, obrigado! 
-  Escolha seu Ceviche:
-    1.0 x Ceviche de Atum 
-  Ainda com fome?:
-    1.0 x Satisfeito, obrigado! 
-2.0 x  
-5.0 x  
-1.0 x  
-1.0 x  
-  Escolha os Uramaki!:
-    1.0 x 10 Monkey Maki 
-    1.0 x 10 Majestuoso Maki 
-    1.0 x 10 Dragon Maki 
-  Vou precisar de::
-    1.0 x Tenho em casa, obrigado! 
-  Escolha os Hot!:
-    1.0 x 10 Furai Roll 
-    1.0 x 10 Jalea Roll 
-  Ainda com fome?:
-    1.0 x Satisfeito, obrigado! 
-",10,,Concluído,Retirada,Portal,R$ 0.00,R$ 0.00,R$ 0.00,R$ 0.00,R$ 141.90,R$ 0.00,R$ 0.00,,,,,,,
-12,25304589,André Luiz,47991279172,16/09/2023 20:04:12,16/09/2023 20:05:14,16/09/2023 21:18:26,16/09/2023 22:32:46,"1.0 x  
-  Vou precisar de::
-    1.0 x Tenho em casa, obrigado! 
-  Escolha os Uramaki!:
-    1.0 x 10 Dragon Maki 
-    1.0 x 10 Majestuoso Maki 
-    1.0 x 10 Acevichado Maki 
-  Escolha os Hot!:
-    1.0 x 10 Tequeño Roll 
-    1.0 x 10 Jalea Roll 
-  Ainda com fome?:
-    1.0 x Satisfeito, obrigado! 
-1.0 x  
-1.0 x  
-1.0 x  
-",4,Pix automático,Concluído,Delivery,Site,R$ 0.00,R$ 0.00,R$ 0.00,R$ 0.00,R$ 0.00,R$ 108.96,R$ 0.00,Rua Salomé Damázio Jacques,90,Trindade,Apto 602,Florianópolis,SC,88036650
-13,25305758,Júlio Cesar Quadrado,53991014481,16/09/2023 20:09:05,16/09/2023 20:10:19,16/09/2023 21:19:24,16/09/2023 22:32:48,"1.0 x  
-  Vou precisar de::
-    1.0 x Tenho em casa, obrigado! 
-  Ainda com fome?:
-    1.0 x Satisfeito, obrigado! 
-1.0 x  
-  Escolha os Uramaki!:
-    1.0 x 10 Majestuoso Maki 
-    1.0 x 10 Dragon Maki 
-    1.0 x 10 Achifado Maki 
-  Escolha os Hot!:
-    1.0 x 10 Batayaki Hot 
-    1.0 x 10 Jalea Roll 
-  Ainda com fome?:
-    1.0 x Satisfeito, obrigado! 
-  Vou precisar de::
-    1.0 x Wasabi 
-    2.0 x Shoyu Barquinho (30ml) 
-",2,Pix automático,Concluído,Delivery,Site,R$ 8.00,R$ 0.00,R$ 0.00,R$ 0.00,R$ 0.00,R$ 144.44,R$ 0.00,Rua Tenente Silveira,324,Centro,Apto 101,Florianópolis,SC,88010300
-14,25306263,ALLAN DOUGLAS R. DE OLIVEIRA,,16/09/2023 20:11:29,16/09/2023 20:11:31,16/09/2023 21:18:08,16/09/2023 21:30:49,"1.0 x  
-  Vou precisar de::
-    1.0 x Tenho em casa, obrigado! 
-  Escolha os Uramaki!:
-    1.0 x 10 Monkey Roll 
-    1.0 x 10 Chimi Roll 
-    1.0 x 10 Achifado Roll 
-  Escolha os Hot!:
-    1.0 x 10 Batayaki Hot 
-    1.0 x 10 Smoky Furai 
-  Ainda com fome?:
-    1.0 x Satisfeito, obrigado! 
-",1,iFood,Concluído,Delivery,iFood,R$ 9.99,R$ 0.00,R$ 0.00,R$ 0.00,R$ 5.00,R$ 114.96,R$ 0.00,R CRISOGONO VIEIRA DA CRUZ,76,LAGOA DA CONCEICAO,apt 21,FLORIANOPOLIS,SC,88062110
-15,25308700,Maickel Coelho,48996023002,16/09/2023 20:21:54,16/09/2023 20:22:50,16/09/2023 21:18:56,16/09/2023 22:32:51,"1.0 x  
-  Vou precisar de::
-    1.0 x Hashi 
-    1.0 x Shoyu Sachê 8ml 
-    1.0 x Wasabi 
-  Escolha os Uramaki!:
-    1.0 x 10 Inca Maki 
-    1.0 x 10 Dragon Maki 
-    1.0 x 10 Acevichado Maki 
-  Escolha os Hot!:
-    1.0 x 10 Tequeño Roll 
-    1.0 x 10 Jalea Roll 
-  Ainda com fome?:
-    1.0 x Satisfeito, obrigado! 
-",1,Pix automático,Concluído,Delivery,Site,R$ 14.00,R$ 0.00,R$ 0.00,R$ 0.00,R$ 0.00,R$ 114.78,R$ 0.00,Rua Professor Clementino de Brito,205,Capoeiras,Apto 1206,Florianópolis,SC,88070150
-16,25309283,JESSICA Rezende,,16/09/2023 20:24:25,16/09/2023 20:24:28,16/09/2023 21:35:54,16/09/2023 22:33:00,"1.0 x  
-  Ainda com fome?:
-    1.0 x Satisfeito, obrigado! 
-  Vou precisar de::
-    1.0 x Tarê (8g) 
-1.0 x  
-  Vou precisar de::
-    1.0 x Tarê (8g) 
-  Ainda com fome?:
-    1.0 x Satisfeito, obrigado! 
-",2,iFood,Concluído,Delivery,iFood,R$ 5.99,R$ 0.00,R$ 0.00,R$ 0.00,R$ 5.99,R$ 77.78,R$ 0.00,R. Crispim Mira,405,Centro,,Florianópolis,SC,88020540
-17,25309744,Juliana Alexandre Santana,48984373440,16/09/2023 20:26:25,16/09/2023 20:27:51,16/09/2023 21:35:59,16/09/2023 22:33:01,"1.0 x  
-  Vou precisar de::
-    2.0 x Hashi 
-    8.0 x Shoyu Sachê 8ml 
-    1.0 x Wasabi 
-  Escolha os Uramaki!:
-    1.0 x 10 Inca Maki 
-    1.0 x 10 Monkey Maki 
-    1.0 x 10 Dragon Maki 
-  Escolha os Hot!:
-    1.0 x 10 Furai Roll 
-    1.0 x 10 Jalea Roll 
-  Ainda com fome?:
-    1.0 x Satisfeito, obrigado! 
-",1,Pix automático,Concluído,Delivery,Site,R$ 0.00,R$ 0.00,R$ 0.00,R$ 0.00,R$ 0.00,R$ 101.98,R$ 0.00,Rua Pastor William Richard Schisler Filho,900,Itacorubi,Apto 1421,Florianópolis,SC,88034100
-18,25311583,Mendes Nogueira,,16/09/2023 20:34:22,16/09/2023 20:34:24,16/09/2023 21:36:02,16/09/2023 22:33:03,"1.0 x  
-      1.0 x Temaki Jimmy 
-    1.0 x Tenho em casa, obrigado! 
-    1.0 x Temaki Salmão 
-",1,iFood,Concluído,Delivery,iFood,R$ 1.99,R$ 0.00,R$ 0.00,R$ 0.00,R$ 6.99,R$ 44.99,R$ 0.00,R. Sérgio Lopes Falcão,185,Trindade,Apto 603,Florianópolis,SC,88036430
-19,25313789,Luan Vitoria,,16/09/2023 20:43:49,16/09/2023 20:43:51,16/09/2023 21:19:08,16/09/2023 22:33:05,"1.0 x  
-      2.0 x Shoyu Sachê 8ml 
-    3.0 x Tarê (8g) 
-    1.0 x Satisfeito, obrigado! 
-    1.0 x 10 Tefo Hot 
-    1.0 x 10 Smoky Furai 
-",1,iFood,Concluído,Delivery,iFood,R$ 5.99,R$ 0.00,R$ 0.00,R$ 0.00,R$ 17.99,R$ 33.73,R$ 0.00,R. Clemente Rovere,256,Centro,,Florianópolis,SC,88020340
-20,25314561,Juliane Soares,,16/09/2023 20:47:26,16/09/2023 20:47:29,16/09/2023 21:57:27,16/09/2023 22:33:07,"1.0 x  
-      1.0 x 5 Monkey Roll 
-    1.0 x 5 Majestuoso Roll 
-    1.0 x 5 Smoky Furai 
-    1.0 x 5 Batayaki Hot 
-    1.0 x Satisfeito, obrigado! 
-    1.0 x Tenho em casa, obrigado! 
-1.0 x  
-      1.0 x Tenho em casa, obrigado! 
-    1.0 x Temaki Salmão 
-    1.0 x Temaki Atum 
-1.0 x  
-",3,iFood,Concluído,Delivery,iFood,R$ 5.99,R$ 0.00,R$ 0.00,R$ 0.00,R$ 10.99,R$ 109.46,R$ 0.00,R. Cap. Romualdo de Barros,389,Saco dos Limões,Apto 106,Florianópolis,SC,88040600
-21,25315440,Max Cayres,,16/09/2023 20:51:28,16/09/2023 20:51:44,16/09/2023 21:57:31,16/09/2023 22:16:27,"1.0 x  
-      1.0 x Tenho em casa, obrigado! 
-    1.0 x 10 Hot Banana 
-    1.0 x 10 Furai Maki 
-    1.0 x 10 Tefo Hot 
-1.0 x  
-      2.0 x Temaki Atum 
-    1.0 x Tenho em casa, obrigado! 
-1.0 x  
-      3.0 x Hashi 
-    3.0 x Shoyu Sachê 8ml 
-    1.0 x Tarê (8g) 
-    2.0 x 10 Inca Maki 
-    1.0 x 10 Monkey Roll 
-    1.0 x 10 Furai Maki 
-    1.0 x 10 Tefo Hot 
-    1.0 x Satisfeito, obrigado! 
-",3,iFood,Concluído,Delivery,iFood,R$ 3.99,R$ 0.00,R$ 0.00,R$ 0.00,R$ 15.99,R$ 189.01,R$ 0.00,R. Custódio Fermino Vieira,714,Saco dos Limões,Casa,Florianópolis,SC,88045300
-22,25315701,PEDRO HENRIQUE MALTA ,,16/09/2023 20:52:29,16/09/2023 20:52:30,16/09/2023 22:04:34,16/09/2023 22:20:35,"1.0 x  
-      1.0 x Hashi 
-    6.0 x Shoyu Sachê 8ml 
-    1.0 x Wasabi 
-  Ainda com fome?:
-    1.0 x 10 Hot Banana 
-  Escolha os Uramaki!:
-    1.0 x 10 Acevichado Maki 
-    1.0 x 10 Achifado Roll 
-1.0 x  
-      1.0 x Tenho em casa, obrigado! 
-  Ainda com fome?:
-    1.0 x Satisfeito, obrigado! 
-  Escolha os Uramaki!:
-    1.0 x 10 Chimi Roll 
-    1.0 x 10 Majestuoso Roll 
-",2,iFood,Concluído,Delivery,iFood,R$ 5.99,R$ 0.00,R$ 0.00,R$ 0.00,R$ 15.99,R$ 86.50,R$ 0.00,R. Frei Evaristo,162,Centro,Ap 401,Florianópolis,SC,88015410
-23,25323710,Kelvin,15991966299,16/09/2023 21:31:03,16/09/2023 21:31:03,,16/09/2023 21:57:34,"1.0 x  
-",1,,Concluído,Retirada,Portal,R$ 0.00,R$ 0.00,R$ 0.00,R$ 0.00,R$ 22.49,R$ 0.00,R$ 0.00,,,,,,,
-24,25324255,RAFAEL SAGAVE,,16/09/2023 21:33:52,16/09/2023 21:33:55,16/09/2023 21:57:39,16/09/2023 22:33:09,"1.0 x  
-      1.0 x Tenho em casa, obrigado! 
-    1.0 x 10 Inca Maki 
-    1.0 x 10 Monkey Roll 
-    1.0 x 10 Dragon Roll 
-    1.0 x 10 Furai Maki 
-    1.0 x 10 Smoky Furai 
-    1.0 x Satisfeito, obrigado! 
-",1,iFood,Concluído,Delivery,iFood,R$ 1.99,R$ 0.00,R$ 0.00,R$ 0.00,R$ 0.00,R$ 106.97,R$ 0.00,R. Juvêncio Costa,97,Trindade,Apart. 306,Florianópolis,SC,88036270
-1,25430138,ariel n,,18/09/2023 18:31:11,18/09/2023 18:39:49,18/09/2023 18:54:34,18/09/2023 19:16:38,"1.0 x  
-      1.0 x 10 Monkey Maki 
-    1.0 x Tenho em casa, obrigado! 
-    1.0 x 10 Inca Maki 
-",1,iFood,Concluído,Delivery,iFood,R$ 3.99,R$ 0.00,R$ 0.00,R$ 0.00,R$ 15.99,R$ 27.99,R$ 0.00,R. Dep. Antônio Edu Vieira,1074,Pantanal,Apto 01,Florianópolis,SC,88040001
-2,25432809,Sergio Minei,,18/09/2023 19:18:00,18/09/2023 19:18:07,18/09/2023 19:37:12,18/09/2023 20:13:39,"1.0 x  
-      1.0 x Wasabi 
-1.0 x  
-      1.0 x Hashi 
-",2,iFood,Concluído,Delivery,iFood,R$ 3.99,R$ 0.00,R$ 0.00,R$ 0.00,R$ 22.89,R$ 56.72,R$ 0.00,R. Antônio Costa,11,Itacorubi,Ap 603B,Florianópolis,SC,88034050
-3,25435369,Ana Luchtemberg ,,18/09/2023 19:53:53,18/09/2023 19:54:05,18/09/2023 20:13:43,18/09/2023 21:42:17,"1.0 x  
-      2.0 x 10 Inca Maki 
-    1.0 x Shoyu Sachê 8ml 
-1.0 x  
-      4.0 x 10 Inca Maki 
-    1.0 x 10 Acevichado Maki 
-    6.0 x Shoyu Sachê 8ml 
-",2,iFood,Cancelado,Delivery,iFood,R$ 1.99,R$ 0.00,R$ 0.00,R$ 0.00,R$ 21.99,R$ 121.03,R$ 0.00,R. Lauro Linhares,1830,Trindade,Cond Jardim América Bloco Venezuela Ap 301,Florianópolis,SC,88036002
-4,25437099,Balcão,,18/09/2023 20:15:18,18/09/2023 20:15:18,18/09/2023 21:08:49,18/09/2023 21:08:51,"1.0 x  
-  20 PEÇAS SALMÃO:
-    1.0 x 10 BATAYAKI MAKI 
-    1.0 x 10 PASSION MAKI 
-  ADICIONAIS:
-    3.0 x HASHI 
-",1,Dinheiro,Concluído,Retirada,Portal,R$ 0.00,R$ 0.00,R$ 0.00,R$ 0.00,R$ 0.44,R$ 50.00,R$ 0.00,,,,,,,
-5,25438414,Eros Drauskis,,18/09/2023 20:31:53,18/09/2023 20:32:04,18/09/2023 20:42:30,18/09/2023 20:42:54,"1.0 x  
-      1.0 x Tarê (8g) 
-    1.0 x 10 Acevichado Maki 
-    1.0 x 10 Majestuoso Maki 
-    1.0 x Shoyu Sachê 8ml 
-",1,iFood,Concluído,Delivery,iFood,R$ 3.99,R$ 0.00,R$ 0.00,R$ 0.00,R$ 14.06,R$ 30.22,R$ 0.00,R. Jorn. Manoel Menezes,64,Itacorubi,Apto 503,Florianópolis,SC,88034060
-6,25439278,Lays Evangelista ,,18/09/2023 20:42:44,18/09/2023 20:43:08,18/09/2023 20:57:50,18/09/2023 21:21:56,"1.0 x  
-      1.0 x 5 Inca Maki 
-    1.0 x 5 Dragon Maki 
-    1.0 x 5 Acevichado Maki 
-    1.0 x 5 Majestuoso Maki 
-    1.0 x Tenho em casa, obrigado! 
-    2.0 x Tarê (8g) 
-",1,iFood,Concluído,Delivery,iFood,R$ 1.99,R$ 0.00,R$ 0.00,R$ 0.00,R$ 13.99,R$ 38.29,R$ 0.00,R. Des. Vítor Lima,398,Trindade,Manhattan II - Bloco A3 apto 401,Florianópolis,SC,88040400
-7,25442957,CARINA,,18/09/2023 21:29:31,18/09/2023 21:29:33,18/09/2023 22:11:34,18/09/2023 22:27:58,"1.0 x  
-      1.0 x 10 Monkey Maki 
-    1.0 x 10 Dragon Maki 
-    1.0 x Hashi 
-    1.0 x Shoyu Sachê 8ml 
-    1.0 x Wasabi 
-1.0 x  
-",2,iFood,Concluído,Delivery,iFood,R$ 1.99,R$ 0.00,R$ 0.00,R$ 0.00,R$ 15.18,R$ 39.58,R$ 0.00,R. Profa. Maria Flora Pausewang,108,Trindade,Ramal 9173,Florianópolis,SC,88035
-8,25443151,Kelvin,15991966299,18/09/2023 21:31:56,18/09/2023 21:31:56,18/09/2023 22:20:31,18/09/2023 22:20:32,"1.0 x  
-  FULL ROLLS:
-    1.0 x 10 TRUFFLE MAKI 
-",1,,Concluído,Retirada,Portal,R$ 0.00,R$ 0.00,R$ 0.00,R$ 0.00,R$ 29.99,R$ 0.00,R$ 0.00,,,,,,,
-9,25444287,Thamires Prates,,18/09/2023 21:48:38,18/09/2023 21:48:41,18/09/2023 22:20:28,18/09/2023 22:28:00,"1.0 x  
-      1.0 x 10 Monkey Maki 
-    1.0 x 10 Dragon Maki 
-    1.0 x 10 Chimi Maki 
-    1.0 x 10 Acevichado Maki 
-    1.0 x 10 Imperial Maki 
-    2.0 x Hashi 
-    1.0 x Gari 
-    1.0 x Molho Passion 
-",1,iFood,Concluído,Delivery,iFood,R$ 5.99,R$ 0.00,R$ 0.00,R$ 0.00,R$ 25.99,R$ 88.76,R$ 0.00,Rod. Amaro Antônio Viêira,2395,Itacorubi,407A2,Florianópolis,SC,88034102
-1,25465757,Vanessa Serra,,19/09/2023 18:33:53,19/09/2023 18:33:55,19/09/2023 18:58:09,19/09/2023 19:46:05,"1.0 x  
-      1.0 x 10 Imperial Maki 
-    1.0 x 10 Passion Maki 
-    2.0 x Shoyu Sachê 8ml 
-    1.0 x Gari 
-",1,iFood,Concluído,Delivery,iFood,R$ 0.00,R$ 0.00,R$ 0.00,R$ 0.00,R$ 10.00,R$ 40.76,R$ 0.00,Rua Antônio Eleutério Vieira,50,Agronômica,Apto 104B,Florianópolis,SC,88025380
-2,25466285,JULIA SARDÁ FORTUNATO,,19/09/2023 18:43:08,19/09/2023 18:43:11,19/09/2023 18:58:14,19/09/2023 19:39:02,"1.0 x  
-      1.0 x 10 Monkey Maki 
-    1.0 x 10 Acevichado Maki 
-    1.0 x Tenho em casa, obrigado! 
-",1,iFood,Concluído,Delivery,iFood,R$ 0.00,R$ 0.00,R$ 0.00,R$ 0.00,R$ 12.00,R$ 27.99,R$ 0.00,Servidão Estelino da Silva,69,Itacorubi,Casa,Florianópolis,SC,88034255
-3,25466863,Kelvin,15991966299,19/09/2023 18:53:39,19/09/2023 18:53:39,,19/09/2023 19:40:51,"1.0 x  
-  FULL ROLLS:
-    2.0 x 10 CHIMI MAKI 
-1.0 x  
-  FULL HOTS:
-    1.0 x 10 FURAI ROLL 
-",2,Dinheiro,Concluído,Retirada,Portal,R$ 0.00,R$ 0.00,R$ 0.00,R$ 0.00,R$ 25.97,R$ 34.00,R$ 0.00,,,,,,,
-4,25467210,Maria Luiza Neves,,19/09/2023 18:58:57,19/09/2023 18:58:58,19/09/2023 19:39:01,19/09/2023 21:34:39,"1.0 x  
-      1.0 x 10 Batayaki Maki 
-    1.0 x 10 Passion Maki 
-    1.0 x Shoyu Sachê 8ml 
-    1.0 x Wasabi 
-1.0 x  
-      1.0 x Temaki Salmão 
-    1.0 x Temaki Jimmy 
-    1.0 x Hashi Take 33 Cm 
-    4.0 x Shoyu Sachê 8ml 
-",2,iFood,Concluído,Delivery,iFood,R$ 4.99,R$ 0.00,R$ 0.00,R$ 0.00,R$ 20.00,R$ 86.34,R$ 0.00,R. Jerônimo Coelho,312,Centro,Loja Pesponto,Florianópolis,SC,88010030
-5,25467687,Renato Szpigel,,19/09/2023 19:05:33,19/09/2023 19:05:35,19/09/2023 19:39:11,19/09/2023 21:34:42,"1.0 x  
-      1.0 x Temaki Salmão 
-    1.0 x Temaki Jimmy 
-    1.0 x Hashi Take 33 Cm 
-    1.0 x Shoyu Barquinho (30ml) 
-",1,iFood,Concluído,Delivery,iFood,R$ 0.00,R$ 0.00,R$ 0.00,R$ 0.00,R$ 10.00,R$ 43.13,R$ 0.00,R. Alves de Brito,254,Centro,Apto 802,Florianópolis,SC,88015440
-6,25468080,Balcão,,19/09/2023 19:10:22,19/09/2023 19:10:22,,19/09/2023 19:40:49,"1.0 x 20 HOT BANANA 
-",1,Dinheiro,Concluído,Retirada,Portal,R$ 0.00,R$ 0.00,R$ 0.00,R$ 0.00,R$ 0.00,R$ 19.99,R$ 0.00,,,,,,,
-7,25469184,Lizeanne Beckhauser,,19/09/2023 19:24:03,19/09/2023 19:24:05,19/09/2023 19:49:03,19/09/2023 21:34:44,"1.0 x  
-      1.0 x 10 Inca Maki 
-    1.0 x 10 Chimi Maki 
-    1.0 x 10 Truffle Maki 
-    1.0 x 10 Batayaki Maki 
-    1.0 x 10 Imperial Maki 
-    1.0 x Tarê Barquinho (30g) 
-",1,iFood,Concluído,Delivery,iFood,R$ 0.00,R$ 0.00,R$ 0.00,R$ 0.00,R$ 10.00,R$ 107.95,R$ 0.00,R. João Pio Duarte Silva,576,Córrego Grande,APTO 101 BLOCO C,Florianopolis,SC,0
-8,25469487,Felix Schultz,,19/09/2023 19:27:40,19/09/2023 19:27:42,19/09/2023 19:49:06,19/09/2023 21:34:45,"1.0 x  
-      2.0 x 10 Inca Maki 
-    1.0 x 10 Monkey Maki 
-    1.0 x 10 Chimi Maki 
-    1.0 x 10 Truffle Maki 
-    2.0 x Hashi 
-    1.0 x Shoyu Sachê 8ml 
-",1,iFood,Concluído,Delivery,iFood,R$ 9.99,R$ 0.00,R$ 0.00,R$ 0.00,R$ 20.00,R$ 95.42,R$ 0.00,R. Jorge Amado,138,Lagoa da Conceição,,Florianópolis,SC,88062185
-9,25469812,Maria Ester Cueto Alfaro,,19/09/2023 19:31:17,19/09/2023 19:31:19,19/09/2023 20:18:42,19/09/2023 21:34:47,"1.0 x  
-      1.0 x 10 Inca Maki 
-    1.0 x 10 Dragon Maki 
-    1.0 x Tenho em casa, obrigado! 
-",1,iFood,Concluído,Delivery,iFood,R$ 0.00,R$ 0.00,R$ 0.99,R$ 0.00,R$ 10.00,R$ 30.98,R$ 0.00,R. Profa. Maria Flora Pausewang,109,Trindade,Apto 102,Florianópolis,SC,88036800
-10,25470740,Júlia Heindrickson,,19/09/2023 19:41:34,19/09/2023 19:41:36,19/09/2023 20:18:45,19/09/2023 21:34:49,"1.0 x  
-      1.0 x 10 Inca Maki 
-    1.0 x 10 Monkey Maki 
-    1.0 x Tenho em casa, obrigado! 
-",1,iFood,Concluído,Delivery,iFood,R$ 0.00,R$ 0.00,R$ 0.99,R$ 0.00,R$ 10.00,R$ 30.98,R$ 0.00,Servidão Rodolfo Rodrigues Feijó,196,Itacorubi,Casa,Florianópolis,SC,88034220
-11,25473116,Adriana Bezerra,,19/09/2023 20:05:34,19/09/2023 20:05:37,19/09/2023 20:18:49,19/09/2023 21:34:51,"1.0 x  
-      1.0 x 10 Monkey Maki 
-    1.0 x 10 Majestuoso Maki 
-    1.0 x Tenho em casa, obrigado! 
-1.0 x  
-      1.0 x 10 Furai Maki 
-    1.0 x 10 Jalea Roll 
-    1.0 x Satisfeito, obrigado! 
-    1.0 x Hashi 
-    1.0 x Tarê (8g) 
-1.0 x  
-",3,iFood,Concluído,Delivery,iFood,R$ 0.00,R$ 0.00,R$ 0.00,R$ 0.00,R$ 5.00,R$ 80.27,R$ 0.00,R. Frontino Manoel Geremias,65,Carvoeira,Apto 202,Florianópolis,SC,88040480
-12,25473947,Matheus Gomes Souza,,19/09/2023 20:13:47,19/09/2023 20:13:49,19/09/2023 20:50:44,19/09/2023 21:34:54,"1.0 x  
-      1.0 x 10 Monkey Maki 
-    1.0 x 10 Acevichado Maki 
-    1.0 x 10 Majestuoso Maki 
-    1.0 x 10 Imperial Maki 
-    1.0 x 10 Honey Maki 
-    8.0 x Shoyu Sachê 8ml 
-",1,iFood,Concluído,Delivery,iFood,R$ 0.00,R$ 0.00,R$ 0.00,R$ 0.00,R$ 10.00,R$ 101.17,R$ 0.00,R. Ernesto Stodieck,199,Centro,,Florianópolis,SC,88025130
-13,25477942,Balcão,,19/09/2023 20:54:18,19/09/2023 20:54:18,,19/09/2023 21:02:34,"1.0 x  
-  ADICIONAIS:
-    5.0 x HASHI 
-    1.0 x SHOYU BARQUINHO  
-    1.0 x TARÊ BARQUINHO 
-1.0 x  
-  FULL HOTS:
-    1.0 x 10 FURAI ROLL 
-    1.0 x 10 TEQUEÑO ROLL 
-    1.0 x 10 JALEA ROLL 
-    2.0 x 10 ACHIFADO HOT 
-    2.0 x 10 SMOKY ROLL 
-",2,,Concluído,Retirada,Portal,R$ 0.00,R$ 0.00,R$ 0.00,R$ 0.00,R$ 166.66,R$ 0.00,R$ 0.00,,,,,,,
-14,25477956,AMANDA,,19/09/2023 20:54:25,19/09/2023 20:54:27,19/09/2023 21:34:33,19/09/2023 22:16:55,"1.0 x  
-      1.0 x 5 Monkey Maki 
-    1.0 x 5 Dragon Maki 
-    1.0 x 5 Majestuoso Maki 
-    1.0 x 5 Acevichado Maki 
-    1.0 x Tenho em casa, obrigado! 
-    1.0 x Gari 
-",1,iFood,Concluído,Delivery,iFood,R$ 0.00,R$ 0.00,R$ 0.00,R$ 0.00,R$ 12.62,R$ 37.86,R$ 0.00,R. Ravena,92,Itacorubi,,Florianópolis,SC,88034401
-15,25478355,manuel perez,,19/09/2023 20:58:29,19/09/2023 20:58:31,19/09/2023 21:34:37,19/09/2023 22:16:58,"1.0 x  
-      1.0 x 10 Monkey Maki 
-    1.0 x 10 Dragon Maki 
-    1.0 x 10 Acevichado Maki 
-    1.0 x 10 Majestuoso Maki 
-    1.0 x 10 Tefo Maki 
-    2.0 x Hashi 
-",1,iFood,Concluído,Delivery,iFood,R$ 0.00,R$ 0.00,R$ 0.00,R$ 0.00,R$ 12.00,R$ 93.28,R$ 0.00,R. José Batista Rosa,161,Trindade,Apartamento 2,Florianópolis,SC,88036150
-16,25483112,Helena Araújo,,19/09/2023 21:49:59,19/09/2023 21:50:01,19/09/2023 22:17:01,19/09/2023 22:29:16,"2.0 x  
-      2.0 x 10 Furai Maki 
-    1.0 x Satisfeito, obrigado! 
-    1.0 x Tenho em casa, obrigado! 
-    1.0 x Molho Acevichado 
-",2,iFood,Concluído,Delivery,iFood,R$ 0.00,R$ 0.00,R$ 0.00,R$ 0.00,R$ 5.00,R$ 80.96,R$ 0.00,Rod. Amaro Antônio Viêira,2008,Itacorubi,bloco 14 ap 103,Florianopolis,SC,0
-1,25505749,Gustavo Adenir Aguiar,,20/09/2023 18:09:57,20/09/2023 18:10:09,20/09/2023 18:34:38,20/09/2023 21:15:18,"1.0 x  
-      1.0 x 10 Passion Maki 
-    1.0 x 10 Batayaki Maki 
-    1.0 x 10 Imperial Maki 
-    1.0 x 10 Furai Roll 
-    1.0 x 10 Smoky Roll 
-    2.0 x Hashi 
-",1,iFood,Concluído,Delivery,iFood,R$ 0.00,R$ 0.00,R$ 0.00,R$ 0.00,R$ 0.00,R$ 120.29,R$ 0.00,R. Acelon Eduardo da Silva,321,Córrego Grande,Casa,Florianópolis,SC,88037408
-2,25506241,PAULA CIPRIANI,,20/09/2023 18:19:37,20/09/2023 18:20:00,20/09/2023 18:50:25,20/09/2023 20:34:04,"1.0 x  
-      1.0 x 10 Dragon Maki 
-    1.0 x 10 Acevichado Maki 
-    1.0 x Wasabi 
-",1,iFood,Concluído,Delivery,iFood,R$ 0.00,R$ 0.00,R$ 0.00,R$ 0.00,R$ 10.00,R$ 30.48,R$ 0.00,R. Lauro Linhares,2123,Trindade,Torre B Sala 205,Florianópolis,SC,88036000
-3,25506287,Verena Wienke,,20/09/2023 18:20:38,20/09/2023 18:20:40,20/09/2023 18:50:29,20/09/2023 19:57:05,"1.0 x  
-      1.0 x 10 Dragon Maki 
-    1.0 x 10 Acevichado Maki 
-    1.0 x Tenho em casa, obrigado! 
-",1,iFood,Concluído,Delivery,iFood,R$ 0.00,R$ 0.00,R$ 0.00,R$ 0.00,R$ 12.00,R$ 27.99,R$ 0.00,Rod. Amaro Antônio Viêira,2578,Itacorubi,104,Florianópolis,SC,88034102
-4,25507495,Eduardo Delagnelo Barbetta,,20/09/2023 18:40:26,20/09/2023 18:40:28,20/09/2023 19:12:22,20/09/2023 19:30:00,"1.0 x  
-      1.0 x Temaki Majestuoso 
-    1.0 x Temaki Jimmy 
-    1.0 x Tenho em casa, obrigado! 
-",1,iFood,Concluído,Delivery,iFood,R$ 0.00,R$ 0.00,R$ 0.00,R$ 0.00,R$ 12.00,R$ 37.99,R$ 0.00,R. Des. Vítor Lima,354,Trindade,Apto. 301 / Bloco C / Residencial Coimbra,Florianópolis,SC,88040400
-5,25507518,Wilian Marssona,,20/09/2023 18:40:56,20/09/2023 18:40:58,20/09/2023 19:12:27,20/09/2023 20:34:06,"1.0 x  
-      1.0 x 5 Monkey Maki 
-    1.0 x 5 Acevichado Maki 
-    1.0 x 5 Jalea Roll 
-    1.0 x 5 Achifado Hot 
-    1.0 x Tenho em casa, obrigado! 
-",1,iFood,Concluído,Delivery,iFood,R$ 0.00,R$ 0.00,R$ 0.00,R$ 0.00,R$ 10.00,R$ 39.99,R$ 0.00,R. Artista Bitencourt,160,Centro,Apto 804,Florianópolis,SC,88020060
-6,25507819,DAGOBERTO JUNIOR,,20/09/2023 18:45:00,20/09/2023 18:45:02,20/09/2023 19:28:46,20/09/2023 20:34:15,"1.0 x  
-      1.0 x 10 Dragon Maki 
-    1.0 x 10 Achifado Maki 
-    1.0 x Tenho em casa, obrigado! 
-",1,iFood,Concluído,Delivery,iFood,R$ 0.00,R$ 0.00,R$ 0.00,R$ 0.00,R$ 5.00,R$ 39.98,R$ 0.00,R. Prof. Milton Roque Ramos Krieger,178,Trindade,Bloco A Apto 204,Florianópolis,SC,88036080
-7,25507913,Kelvin,15991966299,20/09/2023 18:46:14,20/09/2023 18:46:14,,20/09/2023 19:12:04,"1.0 x  
-  TEMAKIS:
-    1.0 x TEMAKI MAJESTUOSO 
-",1,Dinheiro,Concluído,Retirada,Portal,R$ 0.00,R$ 0.00,R$ 0.00,R$ 0.00,R$ 7.99,R$ 12.00,R$ 0.00,,,,,,,
-8,25508437,Vitor Schweitzer Thiesen,,20/09/2023 18:53:12,20/09/2023 18:53:16,20/09/2023 19:12:31,20/09/2023 20:09:27,"1.0 x  
-      2.0 x 10 Inca Maki 
-    4.0 x Shoyu Sachê 8ml 
-    2.0 x Tarê (8g) 
-",1,iFood,Concluído,Delivery,iFood,R$ 0.00,R$ 0.00,R$ 0.00,R$ 0.00,R$ 10.22,R$ 30.67,R$ 0.00,R. Cap. Romualdo de Barros,998,Saco dos Limões,Bloco A 401,Florianópolis,SC,88040600
-9,25509756,GUILHERME KUMM ÁVILA,,20/09/2023 19:07:57,20/09/2023 19:07:59,20/09/2023 19:28:55,20/09/2023 20:34:08,"1.0 x  
-      1.0 x Hashi 
-    1.0 x Shoyu Barquinho (30ml) 
-1.0 x  
-      1.0 x 10 Truffle Maki 
-    1.0 x 10 Batayaki Maki 
-    1.0 x Hashi 
-    2.0 x Shoyu Sachê 8ml 
-",2,iFood,Concluído,Delivery,iFood,R$ 0.00,R$ 0.00,R$ 0.00,R$ 0.00,R$ 0.00,R$ 92.55,R$ 0.00,R. Alba Dias Cunha,147,Trindade,DOMO 1 - APTO 702,Florianópolis,SC,88036020
-10,25510536,Kelvin,15991966299,20/09/2023 19:15:25,20/09/2023 19:15:25,,20/09/2023 20:27:19,"1.0 x  
-  FULL ROLLS:
-    1.0 x 10 TRUFFLE MAKI 
-",1,Dinheiro,Concluído,Retirada,Portal,R$ 0.00,R$ 0.00,R$ 0.00,R$ 0.00,R$ 13.99,R$ 16.00,R$ 0.00,,,,,,,
-11,25511281,Iuri villetti,,20/09/2023 19:22:17,20/09/2023 19:22:19,20/09/2023 19:55:16,20/09/2023 20:34:14,"1.0 x  
-      1.0 x Temaki Salmão 
-    1.0 x Temaki Acevichado 
-    1.0 x Hashi 
-",1,iFood,Concluído,Delivery,iFood,R$ 0.00,R$ 0.00,R$ 0.00,R$ 0.00,R$ 12.00,R$ 38.14,R$ 0.00,Rod. Amaro Antônio Viêira,2797,Itacorubi,Bloco D AP 405,Florianópolis,SC,88034102
+Data de criação,Pedido pronto,Total de itens,Método de pagamento,Status,Total do pedido,Rua,Número,Bairro,Complemento,Cidade,Estado,CEP
+13/09/2023 23:19:40,13/09/2023 23:19:40,1,iFood,Concluído,R$ 92.98,R. Rua_1,144,Bairro_1,Apto 305 bloco B,Florianópolis,SC,88036050
+13/09/2023 23:19:40,13/09/2023 23:19:42,2,iFood,Concluído,R$ 50.13,R. Rua_2,231,Bairro_2,"Apto 301, Bloco D",Florianópolis,SC,88034040
+13/09/2023 23:19:40,13/09/2023 23:19:42,1,iFood,Concluído,R$ 107.77,Av. Avenida_1,680,Bairro_2,Apt 403 B,Florianópolis,SC,88034500
+13/09/2023 23:19:41,,2,iFood,Cancelado,R$ 49.98,Rua Rua_3,155,Bairro_2,"Apto 908, bloco a",Florianópolis,SC,88034600
+13/09/2023 23:19:41,13/09/2023 23:19:42,1,iFood,Concluído,R$ 39.99,R. Rua_4,178,Bairro_1,Bloco A Apto 204,Florianópolis,SC,88036080
+13/09/2023 23:19:42,13/09/2023 23:19:43,3,iFood,Concluído,R$ 86.17,R. Rua_5,488,Bairro_3,Apartamento 202,Florianópolis,SC,88040600
+13/09/2023 23:19:42,13/09/2023 23:19:43,2,iFood,Concluído,R$ 80.47,Rod. Rodovia_1,1797,Bairro_2,Apto 302 Blc A,Florianópolis,SC,88034000
+13/09/2023 23:19:42,13/09/2023 23:19:44,1,iFood,Concluído,R$ 32.98,R. Rua_6,160,Bairro_2,Ap 402 bloco B,Florianópolis,SC,88034300
+13/09/2023 23:19:43,13/09/2023 23:19:44,1,iFood,Concluído,R$ 39.36,Rod. Rodovia_2,2371,Bairro_2,Apto 422 bloco Dakar,Florianópolis,SC,88034102
+13/09/2023 23:19:43,13/09/2023 23:19:44,1,iFood,Concluído,R$ 18.97,Serv. Servidão_1,134,Bairro_4,,Florianópolis,SC,88040100
+13/09/2023 23:19:43,13/09/2023 23:19:45,2,iFood,Concluído,R$ 196.32,R. Rua_7,900,Bairro_2,Apto 621 Bloco B,Florianópolis,SC,88034100
+13/09/2023 23:19:44,13/09/2023 23:19:45,1,iFood,Concluído,R$ 93.77,R. Rua_8,277,Bairro_1,Apto 301,Florianópolis,SC,88036800
+13/09/2023 23:19:44,13/09/2023 23:19:45,3,iFood,Concluído,R$ 55.57,Serv. Servidão_2,100,Bairro_5,,Florianópolis,SC,88037
+13/09/2023 23:19:44,13/09/2023 23:19:45,1,iFood,Concluído,R$ 27.99,R. Rua_2,98,Bairro_5,,Florianópolis,SC,88037408
+13/09/2023 23:19:45,13/09/2023 23:19:47,1,iFood,Concluído,R$ 59.99,R. Rua_9,135,Bairro_1,Ap 104 - Condominio Baviera,Florianópolis,SC,88036410
+13/09/2023 23:19:45,13/09/2023 23:19:46,2,iFood,Concluído,R$ 28.73,R. Rua_10,127,Bairro_2,Casa Rosa,Florianópolis,SC,88034210
+13/09/2023 23:19:45,13/09/2023 23:19:46,1,iFood,Concluído,R$ 41.38,Av. Avenida_2,322,Bairro_1,Apto 721,Florianópolis,SC,88036500
+13/09/2023 23:19:46,13/09/2023 23:19:49,1,iFood,Concluído,R$ 34.99,R. Rua_11,183,Bairro_6,Fundos À Direita,Florianópolis,SC,0
+13/09/2023 23:19:46,13/09/2023 23:19:48,1,iFood,Concluído,R$ 37.49,Av. Avenida_3,1425,Bairro_7,Apto 502,Florianópolis,SC,88020001
+13/09/2023 23:19:46,13/09/2023 23:19:48,2,iFood,Concluído,R$ 45.56,R. Rua_12,238,Bairro_4,404,Florianópolis,SC,88040250
+13/09/2023 23:19:47,13/09/2023 23:19:48,1,iFood,Concluído,R$ 111.02,Av. Avenida_3,1349,Centro,Apto 204,Florianópolis,SC,88020025
+13/09/2023 23:19:47,13/09/2023 23:19:49,2,iFood,Concluído,R$ 77.97,Av. Avenida_3,853,Centro,604,Florianópolis,SC,88020001
+13/09/2023 23:19:47,13/09/2023 23:19:49,1,iFood,Concluído,R$ 14.96,R. Rua_13,205,Bairro_1,Predio Max Flora,Florianópolis,SC,88036003
+13/09/2023 23:19:47,13/09/2023 23:19:48,3,iFood,Concluído,R$ 45.20,R. Rua_14,410,Bairro_1,Manhattan 1 Ap406 Bloco C3,Florianópolis,SC,88040400
+13/09/2023 23:19:48,13/09/2023 23:19:49,3,iFood,Concluído,R$ 23.58,Serv. Servidão_3,40,Bairro_8,Ap 106,Florianópolis,SC,88045543
+13/09/2023 23:19:48,13/09/2023 23:19:49,1,iFood,Concluído,R$ 33.62,R. Rua_12,105,Bairro_4,Casa,Florianópolis,SC,88040250
+14/09/2023 18:57:37,14/09/2023 19:17:49,2,iFood,Concluído,R$ 142.46,Rua Rua_15,755,Centro,Apto 102,Florianópolis,SC,88015070
+14/09/2023 20:04:55,14/09/2023 20:22:52,1,iFood,Concluído,R$ 84.98,R. Rua_13,970,Bairro_1,Apto 504 Bloco A,Florianópolis,SC,88036002
+14/09/2023 20:46:49,14/09/2023 21:33:22,1,iFood,Concluído,R$ 37.83,R. Rua_16,230,Bairro_2,Casa,Florianópolis,SC,88034450
+14/09/2023 20:53:57,14/09/2023 21:33:24,4,iFood,Concluído,R$ 61.73,R. Rua_17,0,Bairro_1,229,Florianópolis,SC,88036300
+14/09/2023 21:03:06,14/09/2023 21:33:37,1,iFood,Concluído,R$ 30.14,R. Rua_18,125,Bairro_9,Ap 108,Florianópolis,SC,88037010
+14/09/2023 21:04:38,14/09/2023 21:33:43,1,iFood,Concluído,R$ 32.63,R. Rua_19,128,Bairro_4,Casa,Florianópolis,SC,88040220
+14/09/2023 21:06:40,14/09/2023 21:45:55,3,iFood,Concluído,R$ 164.95,R. Rua_20,97,Centro,703,Florianópolis,SC,88020540
+Data de criação,Pedido pronto,Total de itens,Método de pagamento,Status,Total do pedido,Rua,Número,Bairro,Complemento,Cidade,Estado,CEP
+14/09/2023 21:07:11,15/09/2023 19:27:53,4,iFood,Concluído,R$ 138.90,Av. Me. Benvenuta,322,Trindade,apto 727 bloco B,Florianopolis,SC,0
+14/09/2023 21:12:16,14/09/2023 22:08:54,1,iFood,Concluído,R$ 30.14,Servidão Laje de Pedra,171,Itacorubi,Casa 12,Florianopolis,SC,0
+14/09/2023 21:13:48,14/09/2023 21:58:08,2,iFood,Concluído,R$ 70.73,Rua Sebastião L. da Silva,170,Córrego Grande,apto 405,Florianópolis,SC,88037400
+14/09/2023 21:15:19,14/09/2023 22:20:36,1,iFood,Concluído,R$ 39.87,Rodovia João Paulo,764,João Paulo,Apto 702 bloco B,Florianópolis,SC,88030300
+14/09/2023 21:18:22,14/09/2023 22:14:00,1,iFood,Concluído,R$ 40.31,Rodovia João Paulo,435,João Paulo,Apto 202 B,Florianópolis,SC,88030300
+14/09/2023 21:24:28,14/09/2023 22:44:32,1,iFood,Concluído,R$ 30.14,R. Urcelino Manoel Coelho,77,Córrego Grande,Casa,Florianópolis,SC,88037050
+14/09/2023 21:25:30,14/09/2023 22:47:05,1,iFood,Concluído,R$ 30.44,R. João Pio Duarte Silva,404,Córrego Grande,Bloco 3 apto 406,Florianópolis,SC,88037000
+14/09/2023 21:29:34,14/09/2023 22:06:19,4,iFood,Concluído,R$ 66.10,Rua General Valgas Neves,115,Estreito,Casa,Florianópolis,SC,88075070
+14/09/2023 21:33:08,15/09/2023 19:27:55,1,iFood,Concluído,R$ 80.74,R. Rui Barbosa,116,Agronômica,Apt 202,Florianópolis,SC,88025300
+14/09/2023 21:33:39,14/09/2023 22:30:22,1,iFood,Concluído,R$ 30.14,Rod. Admar Gonzaga,2025,Itacorubi,Apto 108 / Bloco F2,Florianópolis,SC,88034000
+14/09/2023 21:36:11,15/09/2023 19:27:58,2,iFood,Concluído,R$ 29.99,R. Ver. Hélio Abreu,15,Trindade,Casa,Florianopolis,SC,0
+14/09/2023 21:42:50,14/09/2023 22:39:36,2,iFood,Concluído,R$ 45.77,Av. César Seara,36,Saco dos Limões,Apto 102 interfone 102,Florianópolis,SC,88040500
+14/09/2023 21:48:27,14/09/2023 22:42:09,1,iFood,Concluído,R$ 31.23,R. das Camélias,188,Saco dos Limões,Fundos,Florianópolis,SC,88040530
+14/09/2023 21:56:06,14/09/2023 22:35:28,4,iFood,Concluído,R$ 82.95,R. Luiz Oscar de Carvalho,207,Trindade,Bl 5 AP 303,Florianópolis,SC,88036400
+15/09/2023 18:26:06,15/09/2023 18:37:20,1,Pix automático,Cancelado,R$ 50.13,,,,,,
+15/09/2023 18:42:15,15/09/2023 19:28:01,1,iFood,Concluído,R$ 99.99,R. Lauro Linhares,657,Trindade,AP 206 B,Florianópolis,SC,0
+15/09/2023 18:48:54,15/09/2023 19:31:41,1,iFood,Concluído,R$ 80.48,Rod. Admar Gonzaga,1663,Itacorubi,308 A,Florianópolis,SC,88034000
+15/09/2023 19:04:11,15/09/2023 19:35:31,1,iFood,Concluído,R$ 86.26,Av. Carlos Gonzaga,216,Jd Anchieta,Casa,Florianópolis,SC,88037700
+15/09/2023 19:19:52,15/09/2023 19:46:19,2,iFood,Concluído,R$ 126.47,Servidão Catarina Sodré,93,Itacorubi,Casa,Florianópolis,SC,88034375
+15/09/2023 19:33:09,15/09/2023 20:19:30,1,iFood,Concluído,R$ 100.29,Rod. Amaro Antônio Viêira,2155,Itacorubi,Bloco C, Apartamento 306,Florianópolis,SC,88034102
+15/09/2023 19:37:41,15/09/2023 20:19:32,1,iFood,Concluído,R$ 90.29,Servidão Amaral Antero Bastos,29,Itacorubi,Apartamento 801,Florianopolis,SC,0
+15/09/2023 19:53:57,15/09/2023 20:40:02,5,iFood,Concluído,R$ 187.95,R. Prof. Odilon Fernandes,77,Trindade,Apto 303,Florianópolis,SC,0
+15/09/2023 19:55:59,15/09/2023 20:40:06,2,iFood,Concluído,R$ 60.12,R. Bocaiúva,2304,Centro,,Florianópolis,SC,88015530
+15/09/2023 19:57:38,15/09/2023 20:54:07,1,iFood,Concluído,R$ 72.48,Av. Buriti,750,Itacorubi,Torre 2 Apto 402,Florianópolis,SC,88034500
+15/09/2023 20:09:13,15/09/2023 20:48:32,2,iFood,Concluído,R$ 68.73,R. Des. Vítor Lima,380,Trindade,Quarto 303,Florianópolis,SC,88040401
+15/09/2023 20:37:11,15/09/2023 20:57:00,1,iFood,Concluído,R$ 30.14,,,,,,
+15/09/2023 20:57:04,15/09/2023 21:28:40,1,iFood,Concluído,R$ 44.13,R. Tres Ac Rua Dois,31,Trindade,frente da igreja,Florianópolis,SC,88040425
+15/09/2023 21:00:38,15/09/2023 21:56:59,1,iFood,Concluído,R$ 101.03,R. Marli Maria da Silveira,43,Pantanal,Apto 204,Florianópolis,SC,88040060
+15/09/2023 21:08:19,15/09/2023 21:57:01,1,iFood,Concluído,R$ 47.63,R. Joe Collaço,870,Santa Monica,Casa,Florianópolis,SC,88035200
+15/09/2023 21:24:15,15/09/2023 21:57:02,1,iFood,Concluído,R$ 102.36,R. São Miguel,50,João Paulo,Restaurante Bom Prático E Barato,Florianópolis,SC,88030320
+15/09/2023 21:39:08,15/09/2023 22:41:42,1,Pix automático,Concluído,R$ 85.66,Rua Europa,370,Trindade,Apto 1131,Florianópolis,SC,88036135
+15/09/2023 21:43:43,15/09/2023 22:41:44,2,iFood,Concluído,R$ 66.21,R. Dep. Antônio Edu Vieira,902,Pantanal,Ap 203,Florianópolis,SC,88040001
+15/09/2023 21:51:19,15/09/2023 22:28:55,2,iFood,Concluído,R$ 134.44,Servidão Manoel Félix da Silva,163,Itacorubi,Casa 01,Florianópolis,SC,88034355
+15/09/2023 22:00:28,15/09/2023 22:37:02,1,iFood,Concluído,R$ 39.99,Servidão Feliciano Martins Vieira,158,Itacorubi,Apartamento 203,Florianópolis,SC,88034130
+16/09/2023 19:18:59,16/09/2023 20:43:06,1,iFood,Concluído,R$ 35.14,Av. Jorn. Rubéns de Arruda Ramos,3214,Centro,Apt 801,Florianópolis,SC,88015700
+16/09/2023 19:19:32,16/09/2023 20:43:15,1,iFood,Concluído,R$ 171.06,Av. Mauro Ramos,1250,Centro,Ap 33 Bloco B1,Florianópolis,SC,88020302
+16/09/2023 19:21:06,16/09/2023 20:43:09,3,iFood,Concluído,R$ 205.92,Rod. Virgílio Várzea,1572,Saco Grande,Apto 706, bloco b,Florianópolis,SC,88032005
+16/09/2023 19:24:39,16/09/2023 19:26:24,2,,Concluído,R$ 82.97,,,,,,
+16/09/2023 19:32:46,16/09/2023 20:43:14,1,iFood,Concluído,R$ 38.18,Servidão Wenceslau Martinho Vieira,67,Córrego Grande,Apto 302A,Florianópolis,SC,88037416
+16/09/2023 19:40:00,16/09/2023 20:43:11,2,iFood,Concluído,R$ 212.06,R. do Calafate,209,Pantanal,Apto 201,Florianopolis,SC,0
+16/09/2023 19:45:59,16/09/2023 20:43:12,1,iFood,Concluído,R$ 110.58,R. Luiz Oscar de Carvalho,75,Trindade,B2 33,Florianópolis,SC,88036400
+16/09/2023 19:47:30,16/09/2023 22:32:40,2,iFood,Concluído,R$ 70.73,Servidão Recanto Verde,155,Itacorubi,837,Florianópolis,SC,88034389
+16/09/2023 19:54:07,16/09/2023 22:32:44,1,iFood,Concluído,R$ 79.99,R. Pastor William Richard Schisler Filho,980,Itacorubi,701,Florianópolis,SC,88034100
+16/09/2023 19:55:08,16/09/2023 22:32:42,1,iFood,Concluído,R$ 48.58,R. Fernando Machado,261,Centro,Apto 1108,Florianópolis,SC,88020130
+16/09/2023 19:55:43,16/09/2023 21:13:50,10,,Concluído,R$ 141.90,,,,,,
+16/09/2023 20:04:12,16/09/2023 22:32:46,4,Pix automático,Concluído,R$ 108.96,Rua Salomé Damázio Jacques,90,Trindade,Apto 602,Florianópolis,SC,88036650
+16/09/2023 20:09:05,16/09/2023 22:32:48,2,Pix automático,Concluído,R$ 144.44,Rua Tenente Silveira,324,Centro,Apto 101,Florianópolis,SC,88010300
+16/09/2023 20:11:29,16/09/2023 21:30:49,1,iFood,Concluído,R$ 114.96,R CRISOGONO VIEIRA DA CRUZ,76,LAGOA DA CONCEICAO,apt 21,FLORIANOPOLIS,SC,88062110
+16/09/2023 20:21:54,16/09/2023 22:32:51,1,Pix automático,Concluído,R$ 114.78,Rua Professor Clementino de Brito,205,Capoeiras,Apto 1206,Florianópolis,SC,88070150
+16/09/2023 20:24:25,16/09/2023 22:33:00,2,iFood,Concluído,R$ 77.78,R. Crispim Mira,405,Centro,,Florianópolis,SC,88020540
+16/09/2023 20:26:25,16/09/2023 22:33:01,1,Pix automático,Concluído,R$ 101.98,Rua Pastor William Richard Schisler Filho,900,Itacorubi,Apto 1421,Florianópolis,SC,88034100
+16/09/2023 20:34:22,16/09/2023 22:33:03,1,iFood,Concluído,R$ 44.99,R. Sérgio Lopes Falcão,185,Trindade,Apto 603,Florianópolis,SC,88036430
+16/09/2023 20:43:49,16/09/2023 22:33:05,1,iFood,Concluído,R$ 33.73,R. Clemente Rovere,256,Centro,,Florianópolis,SC,88020340
+16/09/2023 20:47:26,16/09/2023 22:33:07,3,iFood,Concluído,R$ 109.46,R. Cap. Romualdo de Barros,389,Saco dos Limões,Apto 106,Florianópolis,SC,88040600
+16/09/2023 20:51:28,16/09/2023 22:16:27,3,iFood,Concluído,R$ 189.01,R. Custódio Fermino Vieira,714,Saco dos Limões,Casa,Florianópolis,SC,88045300
+16/09/2023 20:52:29,16/09/2023 22:20:35,2,iFood,Concluído,R$ 86.50,R. Frei Evaristo,162,Centro,Ap 401,Florianópolis,SC,88015410
+16/09/2023 21:31:03,16/09/2023 21:57:34,1,,Concluído,R$ 22.49,,,,,,
+16/09/2023 21:33:52,16/09/2023 22:33:09,1,iFood,Concluído,R$ 106.97,R. Juvêncio Costa,97,Trindade,Apart. 306,Florianópolis,SC,88036270
+18/09/2023 18:31:11,18/09/2023 19:16:38,1,iFood,Concluído,R$ 27.99,R. Dep. Antônio Edu Vieira,1074,Pantanal,Apto 01,Florianópolis,SC,88040001
+18/09/2023 19:18:00,18/09/2023 20:13:39,2,iFood,Concluído,R$ 56.72,R. Antônio Costa,11,Itacorubi,Ap 603B,Florianópolis,SC,88034050
+18/09/2023 19:53:53,18/09/2023 21:42:17,2,iFood,Cancelado,R$ 121.03,R. Lauro Linhares,1830,Trindade,Cond Jardim América Bloco Venezuela Ap 301,Florianópolis,SC,88036002
+18/09/2023 20:15:18,18/09/2023 21:08:51,1,Dinheiro,Concluído,R$ 50.00,,,,,,
+18/09/2023 20:31:53,18/09/2023 20:42:54,1,iFood,Concluído,R$ 30.22,R. Jorn. Manoel Menezes,64,Itacorubi,Apto 503,Florianópolis,SC,88034060
+18/09/2023 20:42:44,18/09/2023 21:21:56,1,iFood,Concluído,R$ 38.29,R. Des. Vítor Lima,398,Trindade,Manhattan II - Bloco A3 apto 401,Florianópolis,SC,88040400
+18/09/2023 21:29:31,18/09/2023 22:27:58,2,iFood,Concluído,R$ 39.58,R. Profa. Maria Flora Pausewang,108,Trindade,Ramal 9173,Florianópolis,SC,88035
+18/09/2023 21:31:56,18/09/2023 22:20:32,1,,Concluído,R$ 29.99,,,,,,
+18/09/2023 21:48:38,18/09/2023 22:28:00,1,iFood,Concluído,R$ 88.76,Rod. Amaro Antônio Viêira,2395,Itacorubi,407A2,Florianópolis,SC,88034102
+19/09/2023 18:33:53,19/09/2023 19:46:05,1,iFood,Concluído,R$ 40.76,Rua Antônio Eleutério Vieira,50,Agronômica,Apto 104B,Florianópolis,SC,88025380
+19/09/2023 18:43:08,19/09/2023 19:39:02,1,iFood,Concluído,R$ 27.99,Servidão Estelino da Silva,69,Itacorubi,Casa,Florianópolis,SC,88034255
+19/09/2023 18:53:39,19/09/2023 19:40:51,2,Dinheiro,Concluído,R$ 34.00,,,,,,
+19/09/2023 18:58:57,19/09/2023 21:34:39,2,iFood,Concluído,R$ 86.34,R. Jerônimo Coelho,312,Centro,Loja Pesponto,Florianópolis,SC,88010030
+19/09/2023 19:05:33,19/09/2023 21:34:42,1,iFood,Concluído,R$ 43.13,R. Alves de Brito,254,Centro,Apto 802,Florianópolis,SC,88015440
+19/09/2023 19:10:22,19/09/2023 19:40:49,1,Dinheiro,Concluído,R$ 19.99,,,,,,
+19/09/2023 19:24:03,19/09/2023 21:34:44,1,iFood,Concluído,R$ 107.95,R. João Pio Duarte Silva,576,Córrego Grande,APTO 101 BLOCO C,Florianopolis,SC,0
+19/09/2023 19:27:40,19/09/2023 21:34:45,1,iFood,Concluído,R$ 95.42,R. Jorge Amado,138,Lagoa da Conceição,,Florianópolis,SC,88062185
+19/09/2023 19:31:17,19/09/2023 21:34:47,1,iFood,Concluído,R$ 30.98,R. Profa. Maria Flora Pausewang,109,Trindade,Apto 102,Florianópolis,SC,88036800
+19/09/2023 19:41:34,19/09/2023 21:34:49,1,iFood,Concluído,R$ 30.98,Servidão Rodolfo Rodrigues Feijó,196,Itacorubi,Casa,Florianópolis,SC,88034220
+19/09/2023 20:05:34,19/09/2023 21:34:51,3,iFood,Concluído,R$ 80.27,R. Frontino Manoel Geremias,65,Carvoeira,Apto 202,Florianópolis,SC,88040480
+19/09/2023 20:13:47,19/09/2023 21:34:54,1,iFood,Concluído,R$ 101.17,R. Ernesto Stodieck,199,Centro,,Florianópolis,SC,88025130
+19/09/2023 20:54:18,19/09/2023 21:02:34,2,,Concluído,R$ 166.66,,,,,,
+19/09/2023 20:54:25,19/09/2023 22:16:55,1,iFood,Concluído,R$ 37.86,R. Ravena,92,Itacorubi,,Florianópolis,SC,88034401
+19/09/2023 20:58:29,19/09/2023 22:16:58,1,iFood,Concluído,R$ 93.28,R. José Batista Rosa,161,Trindade,Apartamento 2,Florianópolis,SC,88036150
+19/09/2023 21:49:59,19/09/2023 22:29:16,2,iFood,Concluído,R$ 80.96,Rod. Amaro Antônio Viêra,2008,Itacorubi,bloco 14 ap 103,Florianopolis,SC,0
+20/09/2023 18:09:57,20/09/2023 21:15:18,1,iFood,Concluído,R$ 120.29,R. Acelon Eduardo da Silva,321,Córrego Grande,Casa,Florianópolis,SC,88037408
+20/09/2023 18:19:37,20/09/2023 20:34:04,1,iFood,Concluído,R$ 30.48,R. Lauro Linhares,2123,Trindade,Torre B Sala 205,Florianópolis,SC,88036000
+20/09/2023 18:20:38,20/09/2023 19:57:05,1,iFood,Concluído,R$ 27.99,Rod. Amaro Antônio Viêra,2578,Itacorubi,104,Florianópolis,SC,88034102
+20/09/2023 18:40:26,20/09/2023 19:30:00,1,iFood,Concluído,R$ 37.99,R. Des. Vítor Lima,354,Trindade,Apto. 301 / Bloco C / Residencial Coimbra,Florianópolis,SC,88040400
+20/09/2023 18:40:56,20/09/2023 20:34:06,1,iFood,Concluído,R$ 39.99,R. Artista Bitencourt,160,Centro,Apto 804,Florianópolis,SC,88020060
+20/09/2023 18:45:00,20/09/2023 20:34:15,1,iFood,Concluído,R$ 39.98,R. Prof. Milton Roque Ramos Krieger,178,Trindade,Bloco A Apto 204,Florianópolis,SC,88036080
+20/09/2023 18:46:14,20/09/2023 19:12:04,1,Dinheiro,Concluído,R$ 12.00,,,,,,
+20/09/2023 18:53:12,20/09/2023 20:09:27,1,iFood,Concluído,R$ 30.67,R. Cap. Romualdo de Barros,998,Saco dos Limões,Bloco A 401,Florianópolis,SC,88040600
+20/09/2023 19:07:57,20/09/2023 20:34:08,2,iFood,Concluído,R$ 92.55,R. Alba Dias Cunha,147,Trindade,DOMO 1 - APTO 702,Florianópolis,SC,88036020
+20/09/2023 19:15:25,20/09/2023 20:27:19,1,Dinheiro,Concluído,R$ 16.00,,,,,,
+20/09/2023 19:22:17,20/09/2023 20:34:14,1,iFood,Concluído,R$ 38.14,Rod. Amaro Antônio Viêira,2797,Itacorubi,Bloco D AP 405,Florianópolis,SC,88034102
+
+
+
+
 12,25512250,GIOVANA TEIXEIRA,,20/09/2023 19:30:31,20/09/2023 19:30:33,20/09/2023 19:55:27,20/09/2023 20:34:09,"1.0 x  
       1.0 x 5 Monkey Maki 
     1.0 x 5 Acevichado Maki 
@@ -4371,6 +3199,11 @@ Número do pedido,Id do pedido,Cliente,Telefone,Data de criação,Início do pre
     1.0 x 10 Dragon Maki 
     1.0 x 10 Truffle Maki 
       1.0 x Hashi 
+
+
+
+
+
 ",2,iFood,Concluído,Delivery,iFood,R$ 0.00,R$ 0.00,R$ 0.00,R$ 0.00,R$ 10.00,R$ 80.75,R$ 0.00,R. Frei Caneca,360,Agronômica,302,Florianópolis,SC,88025053
 7,26980130,DAGOBERTO JUNIOR,,14/10/2023 19:26:57,14/10/2023 19:26:59,14/10/2023 20:09:18,14/10/2023 22:56:15,"1.0 x  
   FULL ROLLS:
