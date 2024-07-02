@@ -1,14 +1,14 @@
-Category,Product,Ingredient,Weight (g),Price/kg,Total Price
+Category,Product,Ingredient,Weight (g),Price/kg (R$),Total Price (R$)
 Molho Acevichado,Limão Tahiti,100,1.60,0.16
 Molho Acevichado,Sal,20,1.45,0.03
 Molho Acevichado,Glutamato,5,27.90,0.14
 Molho Acevichado,Hondashi,5,92.91,0.46
 Molho Acevichado,Togarashi,1,376.83,0.38
-Molho Acevichado,Pimenta Preta,1,,,
+Molho Acevichado,Pimenta Preta,1,,
 Molho Acevichado,Alho,10,22.90,0.23
 Molho Acevichado,Cebola Roxa,20,5.99,0.12
 Molho Acevichado,Coentro,5,1.99,0.01
-Molho Acevichado,Salsão,5,,,
+Molho Acevichado,Salsão,5,,
 Molho Acevichado,Gengibre,3,22.90,0.07
 Molho Acevichado,Dedo de moça,40,21.99,0.88
 Molho Acevichado,Óleo de Soja,375,8.40,3.15
@@ -48,8 +48,8 @@ Cha Siu,Char Siu,45,94.86,4.27
 Cha Siu,Cachaça,30,12.23,0.37
 Cha Siu,Shoyu,30,36.67,1.10
 Cha Siu,Óleo de Gergelim,15,68.31,1.02
-Cha Siu,Canela Chinesa,5,,,
-Cha Siu,Pimenta Branca,2.5,,,
+Cha Siu,Canela Chinesa,5,,
+Cha Siu,Pimenta Branca,2.5,,
 Cha Siu,Peso Total,127.5,,6.76
 Cha Siu,Peso Depois de Pronto,127.5,,53.02
 
@@ -58,3 +58,175 @@ Su,Açúcar,3750,3.70,13.88
 Su,Sal,500,1.45,0.73
 Su,Peso Total,9250,,25.10
 Su,Peso Depois de Pronto,11500,,2.18
+
+Atum Spicy,Atum Inteiro 20/30,500,34.90,17.45
+Atum Spicy,LKK Chilli Garlic,40,154.89,6.20
+Atum Spicy,Maionese,40,14.83,0.59
+Atum Spicy,Hondashi,6,92.91,0.56
+Atum Spicy,Óleo de Gergelim,6,68.31,0.41
+Atum Spicy,Peso Total,592,,25.21
+Atum Spicy,Peso Depois de Pronto,592,,42.58
+
+Tempura,Farinha,300,4.58,1.37
+Tempura,Maizena,500,6.40,3.20
+Tempura,Fermento,50,21.80,1.09
+Tempura,Cachaça,50,12.23,0.61
+Tempura,Água sem Gás,200,1.78,0.36
+Tempura,Açúcar,15,3.70,0.06
+Tempura,Sal,5,1.45,0.01
+Tempura,Peso Total,1120,,6.69
+Tempura,Peso Depois de Pronto,1120,,5.98
+
+Shari,Arroz Mirokumai,1000,9.60,9.60
+Shari,Su,300,2.18,0.65
+Shari,Água,1100,,
+Shari,Peso Total,2400,,10.25
+Shari,Peso Depois de Pronto,2640,,3.88
+
+Chimichurri,Salsinha,500,1.99,1.00
+Chimichurri,Alho,30,22.90,0.69
+Chimichurri,Azeite de Oliva,100,39.00,3.90
+Chimichurri,Vinagre,50,2.10,0.11
+Chimichurri,Cebolinha,500,2.59,1.30
+Chimichurri,Togarashi,5,376.83,1.88
+Chimichurri,Peso Total,1185,,8.87
+Chimichurri,Peso Depois de Pronto,1185,,7.48
+
+Molho Passion,Maracujá,30000,6.00,180.00
+Molho Passion,Açúcar,3000,3.70,11.10
+Molho Passion,Peso Total,33000,,191.10
+Molho Passion,Peso Depois de Pronto,3000,,63.70
+
+Inca Maki,Shari,90,3.88,0.35
+Inca Maki,Alga Gold,1000,0.20,0.20
+Inca Maki,Cream Cheese,20,33.92,0.68
+Inca Maki,Salmão Filé,60,90.00,5.40
+Inca Maki,Gergelim,1,35.90,0.04
+Inca Maki,Peso Total,10,,6.66
+Inca Maki,Peso Depois de Pronto,10,,665.88
+
+Salmão Spicy,Salmão,500,,,
+Salmão Spicy,LKK Chilli Garlic,40,154.89,6.20
+Salmão Spicy,Maionese,40,14.83,0.59
+Salmão Spicy,Hondashi,6,92.91,0.56
+Salmão Spicy,Óleo de Gergelim,6,68.31,0.41
+Salmão Spicy,Peso Total,592,,7.76
+Salmão Spicy,Peso Depois de Pronto,592,,13.10
+
+Salmão Empanado,Salmão Descongelado,50,,,
+Salmão Empanado,Farinha,5,4.58,0.02
+Salmão Empanado,Ovo,5,10.00,0.05
+Salmão Empanado,Panko Alpha,5,17.01,0.09
+Salmão Empanado,Peso Total,65,,0.16
+Salmão Empanado,Peso Depois de Pronto,50,,3.16
+
+Batayaki,Shari,90,3.88,0.35
+Batayaki,Alga Gold,1000,0.20,0.20
+Batayaki,Cream Cheese,20,33.92,0.68
+Batayaki,Salmão Filé,80,90.00,7.20
+Batayaki,Manteiga com Sal,10,29.80,0.30
+Batayaki,Peso Total,60,,8.72
+Batayaki,Peso Depois de Pronto,60,,145.35
+
+Ají,Dedo de Moça,60,21.99,1.32
+Ají,Ovo,60,10.00,0.60
+Ají,Cebola Roxa,30,5.99,0.18
+Ají,Alho,15,22.90,0.34
+Ají,Orégano,5,25.90,0.13
+Ají,Sal,5,1.45,0.01
+Ají,Óleo de Soja,120,8.40,1.01
+Ají,Peso Total,295,,3.59
+Ají,Peso Depois de Pronto,500,,7.17
+
+Molho Imperial,Maionese,100,14.83,1.48
+Molho Imperial,Molho de Ostra,50,60.00,3.00
+Molho Imperial,Sweet Chilli Kikkoman,50,94.74,4.74
+Molho Imperial,Peso Total,200,,9.22
+Molho Imperial,Peso Depois de Pronto,200,,46.10
+
+Lula Empanada,Lula Anel,30,31.90,0.96
+Lula Empanada,Farinha,10,4.58,0.05
+Lula Empanada,Panko Alpha,5,17.01,0.09
+Lula Empanada,Peso Total,45,,1.09
+Lula Empanada,Peso Depois de Pronto,60,,18.13
+
+Sunomomo,Pepino Japonês,50,6.60,0.33
+Sunomomo,Su,50,2.18,0.11
+Sunomomo,Pote Sunomomo,1,400.00,0.40
+Sunomomo,Peso Total,101,,0.84
+Sunomomo,Peso Depois de Pronto,100,,8.39
+
+Kani Empanado,Kani,30,36.00,1.08
+Kani Empanado,Farinha,10,4.58,0.05
+Kani Empanado,Panko Alpha,5,17.01,0.09
+Kani Empanado,Peso Total,45,,1.21
+Kani Empanado,Peso Depois de Pronto,60,,20.18
+
+Mistura Hot,Salmão,1000,,,
+Mistura Hot,Cream Cheese,500,33.92,16.96
+Mistura Hot,Cebolinha,60,2.59,0.16
+Mistura Hot,Gergelim,40,35.90,1.44
+Mistura Hot,Peso Total,1600,,18.55
+Mistura Hot,Peso Depois de Pronto,1600,,11.59
+
+Mistura Grelhado,Salmão,1000,,,
+Mistura Grelhado,Cream Cheese,500,33.92,16.96
+Mistura Grelhado,Peso Total,1500,,16.96
+Mistura Grelhado,Peso Depois de Pronto,1500,,11.31
+
+Acevichado Maki,Camarão Sete Barbas,30,56.00,1.68
+Acevichado Maki,Avocado Primalta,30,10.00,0.30
+Acevichado Maki,Atum Lombo Limpo,20,75.00,1.50
+Acevichado Maki,Shari,90,3.88,0.35
+Acevichado Maki,Alga Gold,1000,0.20,0.20
+Acevichado Maki,Molho Acevichado,30,9.42,0.28
+Acevichado Maki,Togarashi,1,376.83,0.38
+Acevichado Maki,Cebolinha,1,2.59,0.00
+Acevichado Maki,Peso Total,10,,4.69
+Acevichado Maki,Peso Depois de Pronto,10,,468.65
+
+Jalea Roll,Camarão Sete Barbas,30,56.00,1.68
+Jalea Roll,Avocado Primalta,30,10.00,0.30
+Jalea Roll,Panko Alpha,20,17.01,0.34
+Jalea Roll,Shari,90,3.88,0.35
+Jalea Roll,Alga Gold,1000,0.20,0.20
+Jalea Roll,Molho Acevichado,30,9.42,0.28
+Jalea Roll,Togarashi,1,376.83,0.38
+Jalea Roll,Cebolinha,1,2.59,0.00
+Jalea Roll,Peso Total,10,,3.53
+Jalea Roll,Peso Depois de Pronto,10,,352.66
+
+Wings Meia,Frango Passarinho,400,,,
+Wings Meia,Embalagem Poke,1,1210.00,1.21
+Wings Meia,Potinho Shoyu,1000,0.21,0.21
+Wings Meia,Molho Acevichado,30,9.42,0.28
+Wings Meia,Peso Total,1,,1.71
+Wings Meia,Peso Depois de Pronto,1,,1705.35
+
+Wings Inteira,Frango Passarinho,800,,,
+Wings Inteira,Embalagem Poke,1,1210.00,1.21
+Wings Inteira,Potinho Shoyu,1000,0.21,0.21
+Wings Inteira,Molho Acevichado,30,9.42,0.28
+Wings Inteira,Peso Total,1,,1.71
+Wings Inteira,Peso Depois de Pronto,1,,1705.35
+
+Yakimeshi,Shari,200,3.88,0.78
+Yakimeshi,Sassami,100,15.00,1.50
+Yakimeshi,Ovo,60,10.00,0.60
+Yakimeshi,Cebolinha,40,2.59,0.10
+Yakimeshi,Alho,5,22.90,0.11
+Yakimeshi,Gengibre,5,22.90,0.11
+Yakimeshi,Broto de Feijão,50,11.00,0.55
+Yakimeshi,Cenoura,30,4.29,0.13
+Yakimeshi,Óleo de Soja,75,8.40,0.63
+Yakimeshi,Óleo de Gergelim,5,68.31,0.34
+Yakimeshi,Óleo de Gergelim,5,68.31,0.34
+Yakimeshi,Batata Doce,5,3.69,0.02
+Yakimeshi,Peso Total,580,,5.22
+Yakimeshi,Peso Depois de Pronto,400,,13.05
+
+ZZ PREPARO 20,Kani,30,36.00,1.08
+ZZ PREPARO 20,Farinha,10,4.58,0.05
+ZZ PREPARO 20,Panko Alpha,5,17.01,0.09
+ZZ PREPARO 20,Peso Total,45,,1.21
+ZZ PREPARO 20,Peso Depois de Pronto,60,,20.18
