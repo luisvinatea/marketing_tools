@@ -46,8 +46,6 @@ Data de criação,Pedido pronto,Total de itens,Método de pagamento,Status,Total
 14/09/2023 21:36:11,15/09/2023 19:27:58,2,iFood,Concluído,R$ 29.99,R. Ver. Hélio Abreu,15,Trindade,Casa,Florianopolis,SC,0
 14/09/2023 21:42:50,14/09/2023 22:39:36,2,iFood,Concluído,R$ 45.77,Av. César Seara,36,Saco dos Limões,Apto 102 interfone 102,Florianópolis,SC,88040500
 14/09/2023 21:48:27,14/09/2023 22:42:09,1,iFood,Concluído,R$ 31.23,R. das Camélias,188,Saco dos Limões,Fundos,Florianópolis,SC,88040530
-14/09/2023 21:56:06,14/09/2023 22:35:28,4,iFood,Concluído,R$ 82.95,R. Luiz Oscar de Carvalho,207,Trindade,Bl 5 AP 303,Florianópolis,SC,88036400
-15/09/2023 18:26:06,15/09/2023 18:37:20,1,Pix automático,Cancelado,R$ 50.13,,,,,,
 15/09/2023 18:42:15,15/09/2023 19:28:01,1,iFood,Concluído,R$ 99.99,R. Lauro Linhares,657,Trindade,AP 206 B,Florianópolis,SC,0
 15/09/2023 18:48:54,15/09/2023 19:31:41,1,iFood,Concluído,R$ 80.48,Rod. Admar Gonzaga,1663,Itacorubi,308 A,Florianópolis,SC,88034000
 15/09/2023 19:04:11,15/09/2023 19:35:31,1,iFood,Concluído,R$ 86.26,Av. Carlos Gonzaga,216,Jd Anchieta,Casa,Florianópolis,SC,88037700
@@ -58,7 +56,6 @@ Data de criação,Pedido pronto,Total de itens,Método de pagamento,Status,Total
 15/09/2023 19:55:59,15/09/2023 20:40:06,2,iFood,Concluído,R$ 60.12,R. Bocaiúva,2304,Centro,,Florianópolis,SC,88015530
 15/09/2023 19:57:38,15/09/2023 20:54:07,1,iFood,Concluído,R$ 72.48,Av. Buriti,750,Itacorubi,Torre 2 Apto 402,Florianópolis,SC,88034500
 15/09/2023 20:09:13,15/09/2023 20:48:32,2,iFood,Concluído,R$ 68.73,R. Des. Vítor Lima,380,Trindade,Quarto 303,Florianópolis,SC,88040401
-15/09/2023 20:37:11,15/09/2023 20:57:00,1,iFood,Concluído,R$ 30.14,,,,,,
 15/09/2023 20:57:04,15/09/2023 21:28:40,1,iFood,Concluído,R$ 44.13,R. Tres Ac Rua Dois,31,Trindade,frente da igreja,Florianópolis,SC,88040425
 15/09/2023 21:00:38,15/09/2023 21:56:59,1,iFood,Concluído,R$ 101.03,R. Marli Maria da Silveira,43,Pantanal,Apto 204,Florianópolis,SC,88040060
 15/09/2023 21:08:19,15/09/2023 21:57:01,1,iFood,Concluído,R$ 47.63,R. Joe Collaço,870,Santa Monica,Casa,Florianópolis,SC,88035200
@@ -70,14 +67,12 @@ Data de criação,Pedido pronto,Total de itens,Método de pagamento,Status,Total
 16/09/2023 19:18:59,16/09/2023 20:43:06,1,iFood,Concluído,R$ 35.14,Av. Jorn. Rubéns de Arruda Ramos,3214,Centro,Apt 801,Florianópolis,SC,88015700
 16/09/2023 19:19:32,16/09/2023 20:43:15,1,iFood,Concluído,R$ 171.06,Av. Mauro Ramos,1250,Centro,Ap 33 Bloco B1,Florianópolis,SC,88020302
 16/09/2023 19:21:06,16/09/2023 20:43:09,3,iFood,Concluído,R$ 205.92,Rod. Virgílio Várzea,1572,Saco Grande,Apto 706, bloco b,Florianópolis,SC,88032005
-16/09/2023 19:24:39,16/09/2023 19:26:24,2,,Concluído,R$ 82.97,,,,,,
 16/09/2023 19:32:46,16/09/2023 20:43:14,1,iFood,Concluído,R$ 38.18,Servidão Wenceslau Martinho Vieira,67,Córrego Grande,Apto 302A,Florianópolis,SC,88037416
 16/09/2023 19:40:00,16/09/2023 20:43:11,2,iFood,Concluído,R$ 212.06,R. do Calafate,209,Pantanal,Apto 201,Florianopolis,SC,0
 16/09/2023 19:45:59,16/09/2023 20:43:12,1,iFood,Concluído,R$ 110.58,R. Luiz Oscar de Carvalho,75,Trindade,B2 33,Florianópolis,SC,88036400
 16/09/2023 19:47:30,16/09/2023 22:32:40,2,iFood,Concluído,R$ 70.73,Servidão Recanto Verde,155,Itacorubi,837,Florianópolis,SC,88034389
 16/09/2023 19:54:07,16/09/2023 22:32:44,1,iFood,Concluído,R$ 79.99,R. Pastor William Richard Schisler Filho,980,Itacorubi,701,Florianópolis,SC,88034100
 16/09/2023 19:55:08,16/09/2023 22:32:42,1,iFood,Concluído,R$ 48.58,R. Fernando Machado,261,Centro,Apto 1108,Florianópolis,SC,88020130
-16/09/2023 19:55:43,16/09/2023 21:13:50,10,,Concluído,R$ 141.90,,,,,,
 16/09/2023 20:04:12,16/09/2023 22:32:46,4,Pix automático,Concluído,R$ 108.96,Rua Salomé Damázio Jacques,90,Trindade,Apto 602,Florianópolis,SC,88036650
 16/09/2023 20:09:05,16/09/2023 22:32:48,2,Pix automático,Concluído,R$ 144.44,Rua Tenente Silveira,324,Centro,Apto 101,Florianópolis,SC,88010300
 16/09/2023 20:11:29,16/09/2023 21:30:49,1,iFood,Concluído,R$ 114.96,R CRISOGONO VIEIRA DA CRUZ,76,LAGOA DA CONCEICAO,apt 21,FLORIANOPOLIS,SC,88062110
@@ -89,30 +84,24 @@ Data de criação,Pedido pronto,Total de itens,Método de pagamento,Status,Total
 16/09/2023 20:47:26,16/09/2023 22:33:07,3,iFood,Concluído,R$ 109.46,R. Cap. Romualdo de Barros,389,Saco dos Limões,Apto 106,Florianópolis,SC,88040600
 16/09/2023 20:51:28,16/09/2023 22:16:27,3,iFood,Concluído,R$ 189.01,R. Custódio Fermino Vieira,714,Saco dos Limões,Casa,Florianópolis,SC,88045300
 16/09/2023 20:52:29,16/09/2023 22:20:35,2,iFood,Concluído,R$ 86.50,R. Frei Evaristo,162,Centro,Ap 401,Florianópolis,SC,88015410
-16/09/2023 21:31:03,16/09/2023 21:57:34,1,,Concluído,R$ 22.49,,,,,,
 16/09/2023 21:33:52,16/09/2023 22:33:09,1,iFood,Concluído,R$ 106.97,R. Juvêncio Costa,97,Trindade,Apart. 306,Florianópolis,SC,88036270
 18/09/2023 18:31:11,18/09/2023 19:16:38,1,iFood,Concluído,R$ 27.99,R. Dep. Antônio Edu Vieira,1074,Pantanal,Apto 01,Florianópolis,SC,88040001
 18/09/2023 19:18:00,18/09/2023 20:13:39,2,iFood,Concluído,R$ 56.72,R. Antônio Costa,11,Itacorubi,Ap 603B,Florianópolis,SC,88034050
 18/09/2023 19:53:53,18/09/2023 21:42:17,2,iFood,Cancelado,R$ 121.03,R. Lauro Linhares,1830,Trindade,Cond Jardim América Bloco Venezuela Ap 301,Florianópolis,SC,88036002
-18/09/2023 20:15:18,18/09/2023 21:08:51,1,Dinheiro,Concluído,R$ 50.00,,,,,,
 18/09/2023 20:31:53,18/09/2023 20:42:54,1,iFood,Concluído,R$ 30.22,R. Jorn. Manoel Menezes,64,Itacorubi,Apto 503,Florianópolis,SC,88034060
 18/09/2023 20:42:44,18/09/2023 21:21:56,1,iFood,Concluído,R$ 38.29,R. Des. Vítor Lima,398,Trindade,Manhattan II - Bloco A3 apto 401,Florianópolis,SC,88040400
 18/09/2023 21:29:31,18/09/2023 22:27:58,2,iFood,Concluído,R$ 39.58,R. Profa. Maria Flora Pausewang,108,Trindade,Ramal 9173,Florianópolis,SC,88035
-18/09/2023 21:31:56,18/09/2023 22:20:32,1,,Concluído,R$ 29.99,,,,,,
 18/09/2023 21:48:38,18/09/2023 22:28:00,1,iFood,Concluído,R$ 88.76,Rod. Amaro Antônio Viêira,2395,Itacorubi,407A2,Florianópolis,SC,88034102
 19/09/2023 18:33:53,19/09/2023 19:46:05,1,iFood,Concluído,R$ 40.76,Rua Antônio Eleutério Vieira,50,Agronômica,Apto 104B,Florianópolis,SC,88025380
 19/09/2023 18:43:08,19/09/2023 19:39:02,1,iFood,Concluído,R$ 27.99,Servidão Estelino da Silva,69,Itacorubi,Casa,Florianópolis,SC,88034255
-19/09/2023 18:53:39,19/09/2023 19:40:51,2,Dinheiro,Concluído,R$ 34.00,,,,,,
 19/09/2023 18:58:57,19/09/2023 21:34:39,2,iFood,Concluído,R$ 86.34,R. Jerônimo Coelho,312,Centro,Loja Pesponto,Florianópolis,SC,88010030
 19/09/2023 19:05:33,19/09/2023 21:34:42,1,iFood,Concluído,R$ 43.13,R. Alves de Brito,254,Centro,Apto 802,Florianópolis,SC,88015440
-19/09/2023 19:10:22,19/09/2023 19:40:49,1,Dinheiro,Concluído,R$ 19.99,,,,,,
 19/09/2023 19:24:03,19/09/2023 21:34:44,1,iFood,Concluído,R$ 107.95,R. João Pio Duarte Silva,576,Córrego Grande,APTO 101 BLOCO C,Florianopolis,SC,0
 19/09/2023 19:27:40,19/09/2023 21:34:45,1,iFood,Concluído,R$ 95.42,R. Jorge Amado,138,Lagoa da Conceição,,Florianópolis,SC,88062185
 19/09/2023 19:31:17,19/09/2023 21:34:47,1,iFood,Concluído,R$ 30.98,R. Profa. Maria Flora Pausewang,109,Trindade,Apto 102,Florianópolis,SC,88036800
 19/09/2023 19:41:34,19/09/2023 21:34:49,1,iFood,Concluído,R$ 30.98,Servidão Rodolfo Rodrigues Feijó,196,Itacorubi,Casa,Florianópolis,SC,88034220
 19/09/2023 20:05:34,19/09/2023 21:34:51,3,iFood,Concluído,R$ 80.27,R. Frontino Manoel Geremias,65,Carvoeira,Apto 202,Florianópolis,SC,88040480
 19/09/2023 20:13:47,19/09/2023 21:34:54,1,iFood,Concluído,R$ 101.17,R. Ernesto Stodieck,199,Centro,,Florianópolis,SC,88025130
-19/09/2023 20:54:18,19/09/2023 21:02:34,2,,Concluído,R$ 166.66,,,,,,
 19/09/2023 20:54:25,19/09/2023 22:16:55,1,iFood,Concluído,R$ 37.86,R. Ravena,92,Itacorubi,,Florianópolis,SC,88034401
 19/09/2023 20:58:29,19/09/2023 22:16:58,1,iFood,Concluído,R$ 93.28,R. José Batista Rosa,161,Trindade,Apartamento 2,Florianópolis,SC,88036150
 19/09/2023 21:49:59,19/09/2023 22:29:16,2,iFood,Concluído,R$ 80.96,Rod. Amaro Antônio Viêra,2008,Itacorubi,bloco 14 ap 103,Florianopolis,SC,0
