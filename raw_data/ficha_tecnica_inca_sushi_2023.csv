@@ -4,11 +4,11 @@ Molho Acevichado,Sal,20,1.45,0.03
 Molho Acevichado,Glutamato,5,27.90,0.14
 Molho Acevichado,Hondashi,5,92.91,0.46
 Molho Acevichado,Togarashi,1,376.83,0.38
-Molho Acevichado,Pimenta Preta,1,,
+Molho Acevichado,Pimenta Preta,1,,,
 Molho Acevichado,Alho,10,22.90,0.23
 Molho Acevichado,Cebola Roxa,20,5.99,0.12
 Molho Acevichado,Coentro,5,1.99,0.01
-Molho Acevichado,Salsão,5,,
+Molho Acevichado,Salsão,5,,,
 Molho Acevichado,Gengibre,3,22.90,0.07
 Molho Acevichado,Dedo de moça,40,21.99,0.88
 Molho Acevichado,Óleo de Soja,375,8.40,3.15
@@ -48,8 +48,8 @@ Cha Siu,Char Siu,45,94.86,4.27
 Cha Siu,Cachaça,30,12.23,0.37
 Cha Siu,Shoyu,30,36.67,1.10
 Cha Siu,Óleo de Gergelim,15,68.31,1.02
-Cha Siu,Canela Chinesa,5,,
-Cha Siu,Pimenta Branca,2.5,,
+Cha Siu,Canela Chinesa,5,,,
+Cha Siu,Pimenta Branca,2.5,,,
 Cha Siu,Peso Total,127.5,,6.76
 Cha Siu,Peso Depois de Pronto,127.5,,53.02
 
