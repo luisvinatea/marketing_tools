@@ -1,11 +1,11 @@
-# A quick tool to find who is not following you back on instagram. Could be useful for digital marketing campaign managers, or to ensure requirements for a giveaway are being followed, without risking to use third party acess to the app, which could have your account restricted or banned. Just request the csv file from Accounts Center containing the data from your user account and replace it inside the read_csv function. Have fun!
+**A quick tool to find who is not following you back on instagram**
 
-# Set up the environment
+```python
 pip install openpyxl
 import pandas as pd
 
-# Load the CSV files
-following_df = pd.read_csv('following.csv')
+# Load the CSV files 
+following_df = pd.read_csv('following.csv') # you obtain this from meta
 followers_df = pd.read_csv('followers.csv')
 
 # Drop NaN values
@@ -40,6 +40,6 @@ unfollowers_df
 unfollowers_df.to_excel('unfollowers_list.xlsx', index=False)
 
 print("The list of unfollowers has been exported to 'unfollowers_list.xlsx'.")
-
+```
 
     
