@@ -1,29 +1,27 @@
-<h1>Finding the Most Cost Effective Marketing Strategy For Inca Sushi</h1>
+# Finding the Most Cost Effective Marketing Strategy for Inca Sushi
 
-<h2>Understanding Meta's Definition of Page Engagement</h2>
-<p class="italic">Meta (formerly Facebook) defines "Page Engagement" as a broad metric that encompasses various types of interactions users can have with a Facebook or Instagram page. This metric is designed to capture the full range of activities users perform that indicate their interest and interaction with the page's content.</p>
+## Understanding Meta's Definition of Page Engagement
 
-<h3>Types of Page Engagements</h3>
-<div class="highlight">
-  <ul>
-    <li><strong>Likes:</strong> Users liking the page itself / Users liking individual posts or photos.</li>
-    <li><strong>Comments:</strong> Users commenting on posts, photos, or videos.</li>
-    <li><strong>Shares:</strong> Users sharing posts, photos, or videos to their own or others' timelines.</li>
-    <li><strong>Reactions:</strong> Users reacting to posts, photos, or videos with different reaction types (e.g., Love, Haha, Wow, Sad, Angry).</li>
-    <li><strong>Clicks:</strong> Link clicks on the content, including "See More" clicks to expand posts / Clicks on the page name or profile picture / Clicks to play a video.</li>
-    <li><strong>Video Views:</strong> Users viewing a video for a specific duration (typically 3 seconds or more).</li>
-    <li><strong>Photo Views:</strong> Users viewing photos or albums.</li>
-    <li><strong>Post Saves:</strong> Users saving posts for later viewing.</li>
-    <li><strong>Message Sends:</strong> Users sending messages to the page through Messenger or Instagram Direct.</li>
-    <li><strong>Follows:</strong> Users following the page to receive updates in their feed.</li>
-  </ul>
-</div>
+Meta (formerly Facebook) defines "Page Engagement" as a broad metric that encompasses various types of interactions users can have with a Facebook or Instagram page. This metric is designed to capture the full range of activities users perform that indicate their interest and interaction with the page's content.
 
-<h3>Implications for the Restaurant's Advertising Strategy</h3>
-<p>Given the broad definition of page engagement, focusing on maximizing this metric can provide a comprehensive view of how users are interacting with the page. For the restaurant, this means that activities like liking posts, commenting, sharing, clicking on links, watching videos, and sending messages all contribute to the engagement metric.</p>
+### Types of Page Engagements
 
-<h2>Some Data Cleaning</h2>
+- **Likes:** Users liking the page itself or individual posts/photos.
+- **Comments:** Users commenting on posts, photos, or videos.
+- **Shares:** Users sharing posts, photos, or videos to their own or others' timelines.
+- **Reactions:** Users reacting to posts, photos, or videos with different reaction types (e.g., Love, Haha, Wow, Sad, Angry).
+- **Clicks:** Link clicks on the content, including "See More" clicks to expand posts, clicks on the page name or profile picture, and clicks to play a video.
+- **Video Views:** Users viewing a video for a specific duration (typically 3 seconds or more).
+- **Photo Views:** Users viewing photos or albums.
+- **Post Saves:** Users saving posts for later viewing.
+- **Message Sends:** Users sending messages to the page through Messenger or Instagram Direct.
+- **Follows:** Users following the page to receive updates in their feed.
 
+### Implications for the Restaurant's Advertising Strategy
+
+Given the broad definition of page engagement, focusing on maximizing this metric can provide a comprehensive view of how users are interacting with the page. For the restaurant, this means that activities like liking posts, commenting, sharing, clicking on links, watching videos, and sending messages all contribute to the engagement metric.
+
+## Some Data Cleaning
 
 ```python
 df_campaigns = pd.read_csv('campaigns_inca_sushi.csv')
@@ -58,15 +56,14 @@ df_copy.drop(columns=['Data de criação', 'Data da última edição'], inplace=
 df_copy.drop(columns=['Início dos relatórios', 'Término dos relatórios'], inplace=True)
 print(df_copy.head())
 ```
-| Campaign Name            | Reach | Impressions | Investment | CPR (1K) | CPM (1K) | Page Engagement | Comentários na publicação | Post Engagement | informações de pagamento offline | informações de pagamento no app para celular | Valor de conversão de adições de informações de pagamento |  adições das informações de pagamento offline | Pedidos  | COMPRAS | Valor de conversão de Pedidos| Valor de conversão de COMPRAS | Objective   | Duration      |
-|--------------------------|-------|-------------|------------|----------|----------|-----------------|---------------------------|---------------- |----------------------------------|----------------------------------------------|-----------------------------------------------------------|-----------------------------------------------|----------|---------|------------------------------|-------------------------------|-------------|---------------|
-| Publicação do Instagram: | 1908  | 1947        | 7.52       | 15.26    | 7.997904 | 81              | NaN                       | 9.0             | NaN                              | NaN                                          | NaN                                                       | NaN                                           | NaN      | NaN     | NaN                          | NaN                           | Tráfego     | 0             |
-| Publicação do Instagram: | 998   | 1010        | 3.40       | 11.764706| 11.564626| 25.0            | NaN                       | 4.0             | NaN                              | NaN                                          | NaN                                                       | NaN                                           | NaN      | NaN     | NaN                          | NaN                           | Tráfego     | 0             |
-| Inca Sushi Culinária     | 289   | 294         | 27.41      | 8.541602 | 8.218891 | 25.0            | NaN                       | 25.0            | NaN                              | NaN                                          | NaN                                                       | NaN                                           | NaN      | NaN     | NaN                          | NaN                           | Engajamento | 1             |
-| Publicação do Instagram: | 3209  | 3335        | 85.83      | 14.813600| 13.360834| 275.0           | NaN                       | 25.0            | NaN                              | NaN                                          | NaN                                                       | NaN                                           | NaN      | NaN     | NaN                          | NaN                           | Tráfego     | 1             |
-| SITE                     | 5794  | 6424        | 7.535070   | 7.445545 | 8.91     | 4.0             | NaN                       | 275.0           | NaN                              | NaN                                          | NaN                                                       | NaN                                           | NaN      | NaN     | NaN                          | NaN                           | Tráfego     | 52            |
-| Campanha de vendas       | 79    | 81          | 27.67      | 8.541602 | 7.99790  | 294             | NaN                       | NaN             | NaN                              | NaN                                          | NaN                                                       | NaN                                           | NaN      | NaN     | NaN                          | NaN                           | Vendas      | 10            |
 
+| Campaign Name            | Reach | Impressions | Investment | CPR (1K) | CPM (1K) | Page Engagement | Post Engagement | Post Reactions | Ad Recall Lift | Objective   | Duration |
+|--------------------------|-------|-------------|------------|----------|----------|-----------------|-----------------|----------------|----------------|-------------|----------|
+| Publicação do Instagram: | 1908  | 1947        | 7.52       | 15.26    | 7.997904 | 81              | 9.0             | NaN            | NaN            | Tráfego     | 0        |
+| Publicação do Instagram: | 998   | 1010        | 3.40       | 11.764706| 11.564626| 25.0            | 4.0             | NaN            | NaN            | Tráfego     | 0        |
+| Inca Sushi Culinária     | 289   | 294         | 27.41      | 8.541602 | 8.218891 | 25.0            | 25.0            | NaN            | NaN            | Engajamento | 1        |
+| Publicação do Instagram: | 3209  | 3335        | 85.83      | 14.813600| 13.360834| 275.0           | 25.0            | NaN            | NaN            | Tráfego     | 1        |
+| SITE                     | 5794  | 6424        | 7.535070   | 7.445545 | 8.91     | 4.0             | 275.0           | NaN            | NaN            | Tráfego     | 52       |
 
 ```python
 # Identify columns with more than 30 non-null values
@@ -80,7 +77,7 @@ print(df_copy.info())
 ```
 
 | Column            | Non-Null Count | Dtype   |
-|------------------ |----------------|---------|
+|-------------------|----------------|---------|
 | Campaign Name     | 37 non-null    | object  |
 | Reach             | 37 non-null    | int64   |
 | Impressions       | 37 non-null    | int64   |
@@ -94,7 +91,6 @@ print(df_copy.info())
 | Objective         | 37 non-null    | object  |
 | Duration          | 37 non-null    | int64   |
 dtypes: float64(6), int64(4), object(2)
-
 
 ### Creating a Campaign Sub-objective
 
@@ -133,7 +129,9 @@ objective_mapping = {
 
 df_copy['Objective'] = df_copy['Objective'].replace(objective_mapping)
 ```
-### Ranking of Strategies 
+
+### Ranking of Strategies
+
 ```python
 # Calculate cost per page engagement
 df_copy.loc[:, 'Cost per Page Engagement'] = df_copy['Investment'] / df_copy['Page Engagement']
@@ -153,10 +151,11 @@ cost_effective_ranking = df_grouped_cost.sort_values(by='Cost per Page Engagemen
 
 # Display the ranking
 print(cost_effective_ranking)
+```
 
-### Ranking of Strategies by Duration 
+### Ranking of Strategies by Duration
+
 ```python
-
 # Aggregate total days running for each strategy (including all objectives)
 df_grouped_days = df_copy.groupby(['Objective', 'Strategy']).agg({
     'Duration': 'sum',
@@ -168,100 +167,20 @@ days_ranking = df_grouped_days.sort_values(by='Duration', ascending=False).reset
 # Display the ranking
 print(days_ranking)
 ```
-<table>
-<tr>
-  <th>Objective</th>
-  <th>Strategy</th>
-  <th>Cost per Page Engagement</th>
-  <th></th>
-  <th>Objective</th>
-  <th>Strategy</th>
-  <th>Duration</th>
-</tr>
-<tr>
-  <td>Engagement</td>
-  <td>Followers</td>
-  <td>0.136000</td>
-  <td></td>
-  <td>Traffic</td>
-  <td>Visitors</td>
-  <td>284</td>
-</tr>
-<tr>
-  <td>Traffic</td>
-  <td>Visitors</td>
-  <td>0.359822</td>
-  <td></td>
-  <td>Engagement</td>
-  <td>Leads</td>
-  <td>228</td>
-</tr>
-<tr>
-  <td>Sales</td>
-  <td>Visitors</td>
-  <td>0.500712</td>
-  <td></td>
-  <td>Awareness</td>
-  <td>Remarketing</td>
-  <td>107</td>
-</tr>
-<tr>
-  <td>Awareness</td>
-  <td>Growth</td>
-  <td>0.670714</td>
-  <td></td>
-  <td>Traffic</td>
-  <td>Followers</td>
-  <td>88</td>
-</tr>
-<tr>
-  <td>Engagement</td>
-  <td>Leads</td>
-  <td>0.743987</td>
-  <td></td>
-  <td>Sales</td>
-  <td>Visitors</td>
-  <td>71</td>
-</tr>
-<tr>
-  <td>Traffic</td>
-  <td>Followers</td>
-  <td>0.786665</td>
-  <td></td>
-  <td>Awareness</td>
-  <td>Growth</td>
-  <td>26</td>
-</tr>
-<tr>
-  <td>Engagement</td>
-  <td>Growth</td>
-  <td>1.439375</td>
-  <td></td>
-  <td>Traffic</td>
-  <td>Growth</td>
-  <td>17</td>
-</tr>
-<tr>
-  <td>Traffic</td>
-  <td>Growth</td>
-  <td>1.781022</td>
-  <td></td>
-  <td>Engagement</td>
-  <td>Growth</td>
-  <td>10</td>
-</tr>
-<tr>
-  <td>Awareness</td>
-  <td>Remarketing</td>
-  <td>1.857752</td>
-  <td></td>
-  <td>Engagement</td>
-  <td>Followers</td>
-  <td>1</td>
-</tr>
-</table>
 
-### Identify the most cost-effective strategy
+| Objective   | Strategy    | Cost per Page Engagement |            | Objective   | Strategy   | Duration |
+|-------------|-------------|--------------------------|------------|-------------|------------|----------|
+| Engagement  | Followers   | 0.136000                 |            |             |            |          |
+| Traffic     | Visitors    | 0.359822                 |            | Engagement  | Leads      | 228      |
+| Sales       | Visitors    | 0.500712                 |            | Awareness   | Remarketing| 107      |
+| Awareness   | Growth      | 0.670714                 |            | Traffic     | Followers  | 88       |
+| Engagement  | Leads       | 0.743987                 |            | Sales       | Visitors   | 71       |
+| Traffic     | Followers   | 0.786665                 |            | Awareness   | Growth     | 26       |
+| Engagement  | Growth      | 1.439375                 |            | Traffic     | Growth     | 17       |
+| Traffic     | Growth      | 1.781022                 |            | Engagement  | Growth     | 10       |
+| Awareness   | Remarketing | 1.857752                 |            | Engagement  | Followers  | 1        |
+
+### Identify the Most Cost-Effective Strategy
 
 ```python
 most_cost_effective_strategy = cost_effective_ranking.iloc[0]
@@ -293,24 +212,23 @@ print(f"Current total page engagements: {current_total_engagements}")
 print(f"Potential total page engagements: {potential_total_engagements:.2f}")
 print(f"Additional page engagements: {additional_engagements:.2f}")
 ```
-<h3>Analysis Summary</h3>
 
-<h4>Most Cost-Effective Strategy</h4>
+## Analysis Summary
 
-<p><strong>Most cost-effective strategy:</strong> Followers for Engagement<br>
-<strong>Total investment:</strong> 11,985.45 BRL<br>
-<strong>Potential savings:</strong> 4,588.26 BRL<br>
-<strong>Percentage savings:</strong> 38.28%<br>
-<strong>Current total page engagements:</strong> 54,391.09<br>
-<strong>Potential total page engagements:</strong> 88,128.31<br>
-<strong>Additional page engagements:</strong> 33,737.22<br></p>
+### Most Cost-Effective Strategy
 
-<p>For this restaurant, if the primary goal was to grow its followers, focusing solely on using the <strong>"Boost Post"</strong> button on Instagram would have been significantly more cost-effective. The analysis revealed that the most cost-effective strategy was the <strong>"Followers"</strong> strategy for the <strong>"Engagement"</strong> objective, achieved through Instagram's <strong>"Boost Post"</strong> function.</p>
+- **Most cost-effective strategy:** Followers for Engagement
+- **Total investment:** 11,985.45 BRL
+- **Potential savings:** 4,588.26 BRL
+- **Percentage savings:** 38.28%
+- **Current total page engagements:** 54,391.09
+- **Potential total page engagements:** 88,128.31
+- **Additional page engagements:** 33,737.22
+---  
+For this restaurant, if the primary goal was to grow its followers, focusing solely on using the **"Boost Post"** button on Instagram would have been significantly more cost-effective. The analysis revealed that the most cost-effective strategy was the **"Followers"** strategy for the **"Engagement"** objective, achieved through Instagram's **"Boost Post"** function.
 
-<p>If the entire advertising budget of 11,985.45 BRL had been allocated to this strategy, the restaurant could have saved approximately <strong>38.28%</strong> of its total investment. This would have resulted in a total saving of <strong>4,588.26 BRL</strong>. Additionally, the number of page engagements would have increased substantially. Instead of the current total of <strong>54,391</strong> page engagements, the potential total could have reached <strong>88,128</strong>, yielding an additional <strong>33,737</strong> page engagements.</p>
+If the entire advertising budget of 11,985.45 BRL had been allocated to this strategy, the restaurant could have saved approximately **38.28%** of its total investment. This would have resulted in a total saving of **4,588.26 BRL**. Additionally, the number of page engagements would have increased substantially. Instead of the current total of **54,391** page engagements, the potential total could have reached **88,128**, yielding an additional **33,737** page engagements.
 
-<p>This analysis underscores the effectiveness and efficiency of using Instagram's <strong>"Boost Post"</strong> button for growing followers and engaging with a broader audience, offering significant savings and better engagement outcomes compared to other strategies.</p>
+This analysis underscores the effectiveness and efficiency of using Instagram's **"Boost Post"** button for growing followers and engaging with a broader audience, offering significant savings and better engagement outcomes compared to other strategies.
 
-<p>By reallocating the advertising budget to the most cost-effective strategy, the restaurant could have maximized its return on investment and achieved better engagement results with a lower expenditure.</p>
-
-<p>This highlights the potential benefits of focusing on the most cost-effective advertising strategies to achieve desired business outcomes while optimizing marketing expenditures.</p>
+By reallocating the advertising budget to the most cost-effective strategy, the restaurant could have maximized its return on investment and achieved better engagement results with a lower expenditure. This highlights the potential benefits of focusing on the most cost-effective advertising strategies to achieve desired business outcomes while optimizing marketing expenditures.
